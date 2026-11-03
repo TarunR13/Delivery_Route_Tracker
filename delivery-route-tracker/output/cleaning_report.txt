@@ -1,0 +1,22 @@
+[1] Loaded 'RandomizedDataExample_trimmed.xlsx': 1,568 rows, 9 columns
+[2] Removed 0 empty/phantom rows -> 1,568 real rows remain
+[3] Trimmed text columns; standardized 0 status spellings
+[4] Parsed dates (restored the leading zero on 1,090 values); 0 unreadable
+    Weekday vs date mismatches flagged: 0
+[5] Converted arrival times; replaced 188 midnight placeholders with blanks
+    Completed routes missing an arrival time (flagged): 10
+[6] Split MorningCheckIn into Flag + Time columns; 159 yes, 1,304 no, 105 unknown (1 unreadable)
+[7] Consistency checks: 0 CheckedIn/Status conflicts, 0 morning-flag conflicts
+[8] Route IDs: 495 missing, 0 bad format, 0 duplicated IDs flagged; 0 exact duplicate rows removed
+[9] Coverage: 9 calendar days have no data (2026-08-31, 2026-09-05, 2026-09-07 to 2026-09-13)
+    ! 8 suspicious days (187 rows flagged): 2026-09-01 to 2026-10-21, 179 of 187 routes are No Show
+      -> Review with the operations team before trusting 'Unaccounted' numbers.
+[10] Final summary
+    Clean rows: 1,568   (rows with at least one note: 622)
+    Status counts (all rows): {'Completed': 1330, 'No Show': 181, 'MorningCheckIn': 57}
+    Status counts (rows WITH a RouteID, matches the dashboard KPIs): {'Completed': 918, 'No Show': 121, 'MorningCheckIn': 34}  | total=1,073
+    Date range: 2026-08-03 to 2026-10-25
+
+Saved clean data   -> output/cleaned_route_data.csv
+Saved SQLite database -> output/routes.db  (table name: routes)
+Saved report       -> output/cleaning_report.txt

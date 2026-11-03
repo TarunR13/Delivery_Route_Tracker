@@ -1,0 +1,1569 @@
+RouteID,RouteDate,DayOfWeek,DriverName,Status,CheckedIn,MorningCheckInFlag,MorningCheckInTime,ArrivalTime,ArrivalHour,DataQualityNotes
+Route-00001,2026-08-03,Monday,Driver 001,Completed,1,0,,19:03:30,19.06,
+Route-00002,2026-08-03,Monday,Driver 002,Completed,1,0,,19:03:30,19.06,
+Route-00003,2026-08-03,Monday,Driver 003,Completed,1,0,,14:50:22,14.84,
+Route-00004,2026-08-03,Monday,Driver 004,Completed,1,0,,17:26:10,17.44,
+Route-00005,2026-08-03,Monday,Driver 005,Completed,1,0,,19:03:35,19.06,
+Route-00006,2026-08-03,Monday,Driver 006,Completed,1,0,,19:04:20,19.07,
+Route-00007,2026-08-03,Monday,Driver 007,Completed,1,0,,19:43:58,19.73,
+Route-00008,2026-08-03,Monday,Driver 008,Completed,1,0,,19:03:42,19.06,
+Route-00009,2026-08-03,Monday,Driver 009,Completed,1,0,,19:03:47,19.06,
+Route-00010,2026-08-03,Monday,Driver 010,Completed,1,0,,15:16:20,15.27,
+Route-00011,2026-08-03,Monday,Driver 011,No Show,0,0,,,,
+Route-00012,2026-08-03,Monday,Driver 012,Completed,1,0,,14:50:27,14.84,
+Route-00013,2026-08-03,Monday,Driver 013,Completed,1,0,,19:03:55,19.07,
+Route-00014,2026-08-03,Monday,Driver 014,Completed,1,0,,19:03:59,19.07,
+Route-00015,2026-08-03,Monday,Driver 015,Completed,1,0,,17:53:10,17.89,
+Route-00016,2026-08-03,Monday,Driver 016,Completed,1,0,,17:53:10,17.89,
+Route-00017,2026-08-03,Monday,Driver 017,Completed,1,0,,19:26:36,19.44,
+Route-00018,2026-08-03,Monday,Driver 018,Completed,1,0,,19:07:04,19.12,
+Route-00019,2026-08-03,Monday,Driver 019,Completed,1,0,,19:04:09,19.07,
+Route-00020,2026-08-03,Monday,Driver 020,Completed,1,0,,14:50:29,14.84,
+Route-00021,2026-08-03,Monday,Driver 021,Completed,1,0,,17:09:41,17.16,
+Route-00022,2026-08-03,Monday,Driver 022,Completed,1,0,,19:44:12,19.74,
+Route-00023,2026-08-03,Monday,Driver 023,Completed,1,0,,16:02:04,16.03,
+Route-00024,2026-08-04,Tuesday,Driver 001,Completed,1,0,,20:12:18,20.2,
+Route-00025,2026-08-04,Tuesday,Driver 003,Completed,1,0,,18:15:49,18.26,
+Route-00026,2026-08-04,Tuesday,Driver 015,Completed,1,0,,18:15:50,18.26,
+Route-00027,2026-08-04,Tuesday,Driver 004,Completed,1,0,,17:33:19,17.56,
+Route-00028,2026-08-04,Tuesday,Driver 023,Completed,1,0,,16:42:09,16.7,
+Route-00029,2026-08-04,Tuesday,Driver 022,Completed,1,0,,18:16:13,18.27,
+Route-00030,2026-08-04,Tuesday,Driver 010,Completed,1,0,,20:37:13,20.62,
+Route-00031,2026-08-04,Tuesday,Driver 008,Completed,1,0,,18:16:18,18.27,
+Route-00032,2026-08-04,Tuesday,Driver 020,Completed,1,0,,18:58:41,18.98,
+Route-00033,2026-08-04,Tuesday,Driver 006,Completed,1,0,,19:17:42,19.3,
+Route-00034,2026-08-04,Tuesday,Driver 013,Completed,1,0,,17:17:03,17.28,
+Route-00035,2026-08-04,Tuesday,Driver 024,Completed,1,0,,18:15:54,18.27,
+Route-00036,2026-08-04,Tuesday,Driver 011,Completed,1,1,,18:31:17,18.52,
+Route-00037,2026-08-04,Tuesday,Driver 007,Completed,1,1,,20:38:08,20.64,
+Route-00038,2026-08-04,Tuesday,Driver 009,Completed,1,0,,19:15:14,19.25,
+Route-00039,2026-08-04,Tuesday,Driver 019,Completed,1,0,,17:36:24,17.61,
+Route-00040,2026-08-04,Tuesday,Driver 017,Completed,1,0,,16:59:28,16.99,
+Route-00041,2026-08-04,Tuesday,Driver 021,Completed,1,0,,14:23:49,14.4,
+Route-00042,2026-08-04,Tuesday,Driver 025,Completed,1,0,,18:31:24,18.52,
+Route-00043,2026-08-04,Tuesday,Driver 016,Completed,1,0,,18:40:01,18.67,
+Route-00044,2026-08-04,Tuesday,Driver 018,Completed,1,0,,20:20:13,20.34,
+Route-00045,2026-08-04,Tuesday,Driver 005,Completed,1,1,,20:38:11,20.64,
+Route-00046,2026-08-04,Tuesday,Driver 002,Completed,1,0,,18:15:59,18.27,
+Route-00047,2026-08-04,Tuesday,Driver 026,Completed,1,0,,18:40:03,18.67,
+Route-00048,2026-08-04,Tuesday,Driver 027,Completed,1,0,,18:49:31,18.83,
+Route-00049,2026-08-05,Wednesday,Driver 007,Completed,1,0,,16:30:07,16.5,
+Route-00050,2026-08-05,Wednesday,Driver 024,Completed,1,0,,18:40:23,18.67,
+Route-00051,2026-08-05,Wednesday,Driver 010,MorningCheckIn,0,1,,,,
+Route-00052,2026-08-05,Wednesday,Driver 021,Completed,1,0,,15:59:56,16.0,
+Route-00053,2026-08-05,Wednesday,Driver 022,Completed,1,0,,18:25:09,18.42,
+Route-00054,2026-08-05,Wednesday,Driver 019,Completed,1,0,,19:06:05,19.1,
+Route-00055,2026-08-05,Wednesday,Driver 008,Completed,1,0,,17:30:08,17.5,
+Route-00056,2026-08-05,Wednesday,Driver 023,Completed,1,0,,15:58:32,15.98,
+Route-00057,2026-08-05,Wednesday,Driver 015,Completed,1,0,,17:02:31,17.04,
+Route-00058,2026-08-05,Wednesday,Driver 017,Completed,1,0,,17:29:57,17.5,
+Route-00059,2026-08-05,Wednesday,Driver 014,Completed,1,0,,18:40:25,18.67,
+Route-00060,2026-08-05,Wednesday,Driver 006,Completed,1,0,,15:58:27,15.97,
+Route-00061,2026-08-05,Wednesday,Driver 011,Completed,1,0,,20:13:09,20.22,
+Route-00062,2026-08-05,Wednesday,Driver 026,Completed,1,0,,14:19:06,14.32,
+Route-00063,2026-08-05,Wednesday,Driver 001,Completed,1,0,,19:05:58,19.1,
+Route-00064,2026-08-05,Wednesday,Driver 018,Completed,1,0,,18:40:31,18.68,
+Route-00065,2026-08-05,Wednesday,Driver 002,Completed,1,0,,18:40:35,18.68,
+Route-00066,2026-08-05,Wednesday,Driver 004,Completed,1,0,,18:53:13,18.89,
+Route-00067,2026-08-05,Wednesday,Driver 005,Completed,1,0,,21:05:55,21.1,
+Route-00068,2026-08-05,Wednesday,Driver 020,Completed,1,0,,17:02:29,17.04,
+Route-00069,2026-08-06,Thursday,Driver 001,Completed,1,0,,20:09:01,20.15,
+Route-00070,2026-08-06,Thursday,Driver 026,MorningCheckIn,0,1,,,,
+Route-00071,2026-08-06,Thursday,Driver 019,Completed,1,0,,19:12:41,19.21,
+Route-00072,2026-08-06,Thursday,Driver 020,Completed,1,0,,19:12:46,19.21,
+Route-00073,2026-08-06,Thursday,Driver 008,Completed,1,0,,14:31:12,14.52,
+Route-00074,2026-08-06,Thursday,Driver 003,Completed,1,0,,19:31:15,19.52,
+Route-00075,2026-08-06,Thursday,Driver 009,Completed,1,0,,16:45:25,16.76,
+Route-00076,2026-08-06,Thursday,Driver 016,MorningCheckIn,0,1,,,,
+Route-00077,2026-08-06,Thursday,Driver 022,MorningCheckIn,0,1,,,,
+Route-00078,2026-08-06,Thursday,Driver 017,Completed,1,0,,16:05:36,16.09,
+Route-00079,2026-08-06,Thursday,Driver 027,Completed,1,0,,16:35:27,16.59,
+Route-00080,2026-08-06,Thursday,Driver 021,Completed,1,0,,17:57:06,17.95,
+Route-00081,2026-08-06,Thursday,Driver 004,Completed,1,0,,18:51:24,18.86,
+Route-00082,2026-08-06,Thursday,Driver 005,Completed,1,0,,20:10:11,20.17,
+Route-00083,2026-08-06,Thursday,Driver 010,Completed,1,0,,17:58:46,17.98,
+Route-00084,2026-08-06,Thursday,Driver 002,Completed,1,0,,19:40:13,19.67,
+Route-00085,2026-08-06,Thursday,Driver 018,Completed,1,0,,17:53:01,17.88,
+Route-00086,2026-08-06,Thursday,Driver 024,Completed,1,0,,20:41:40,20.69,
+Route-00087,2026-08-06,Thursday,Driver 023,Completed,1,0,,17:31:45,17.53,
+Route-00088,2026-08-06,Thursday,Driver 012,Completed,1,0,,18:17:40,18.29,
+Route-00089,2026-08-06,Thursday,Driver 006,Completed,1,0,,18:17:44,18.3,
+Route-00090,2026-08-06,Thursday,Driver 014,Completed,1,0,,18:31:15,18.52,
+Route-00091,2026-08-06,Thursday,Driver 011,Completed,1,0,,21:28:08,21.47,
+Route-00092,2026-08-07,Friday,Driver 002,Completed,1,0,,17:47:06,17.79,
+Route-00093,2026-08-07,Friday,Driver 007,Completed,1,0,,17:19:59,17.33,
+Route-00094,2026-08-07,Friday,Driver 018,Completed,1,0,,18:00:36,18.01,
+Route-00095,2026-08-07,Friday,Driver 020,Completed,1,0,,18:09:23,18.16,
+Route-00096,2026-08-07,Friday,Driver 003,Completed,1,0,,18:25:42,18.43,
+Route-00097,2026-08-07,Friday,Driver 019,Completed,1,0,,19:27:04,19.45,
+Route-00098,2026-08-07,Friday,Driver 024,Completed,1,0,,17:50:08,17.84,
+Route-00099,2026-08-07,Friday,Driver 009,Completed,1,0,,15:52:42,15.88,
+Route-00100,2026-08-07,Friday,Driver 012,Completed,1,0,,16:43:38,16.73,
+Route-00101,2026-08-07,Friday,Driver 015,Completed,1,1,,18:50:02,18.83,
+Route-00102,2026-08-07,Friday,Driver 001,Completed,1,0,,19:27:07,19.45,
+Route-00103,2026-08-07,Friday,Driver 016,Completed,1,0,,16:06:33,16.11,
+Route-00104,2026-08-07,Friday,Driver 005,Completed,1,0,,21:46:42,21.78,
+Route-00105,2026-08-07,Friday,Driver 014,Completed,1,0,,16:06:46,16.11,
+Route-00106,2026-08-07,Friday,Driver 006,Completed,1,0,,18:19:14,18.32,
+Route-00107,2026-08-07,Friday,Driver 023,Completed,1,0,,17:47:21,17.79,
+Route-00108,2026-08-07,Friday,Driver 010,Completed,1,0,,18:25:52,18.43,
+Route-00109,2026-08-07,Friday,Driver 022,Completed,1,0,,16:31:15,16.52,
+Route-00110,2026-08-07,Friday,Driver 008,Completed,1,0,,19:27:12,19.45,
+Route-00111,2026-08-07,Friday,Driver 021,Completed,1,0,,17:01:02,17.02,
+Route-00112,2026-08-07,Friday,Driver 004,Completed,1,0,,17:50:15,17.84,
+Route-00113,2026-08-07,Friday,Driver 027,Completed,1,0,,19:53:13,19.89,
+Route-00114,2026-08-07,Friday,Driver 025,Completed,1,0,,15:52:52,15.88,
+Route-00115,2026-08-07,Friday,Driver 013,Completed,1,0,,16:43:29,16.72,
+Route-00116,2026-08-08,Saturday,Driver 002,Completed,1,0,,17:15:54,17.27,
+Route-00117,2026-08-08,Saturday,Driver 012,Completed,1,0,,15:59:28,15.99,
+Route-00118,2026-08-08,Saturday,Driver 023,Completed,1,0,,20:16:55,20.28,
+Route-00119,2026-08-08,Saturday,Driver 011,Completed,1,0,,20:16:42,20.28,
+Route-00120,2026-08-08,Saturday,Driver 025,Completed,1,0,,17:15:51,17.26,
+Route-00121,2026-08-08,Saturday,Driver 020,Completed,1,0,,20:53:19,20.89,
+Route-00122,2026-08-08,Saturday,Driver 001,Completed,1,0,,21:01:22,21.02,
+Route-00123,2026-08-08,Saturday,Driver 017,Completed,1,0,,17:40:05,17.67,
+Route-00124,2026-08-08,Saturday,Driver 007,Completed,1,0,,17:15:49,17.26,
+Route-00125,2026-08-08,Saturday,Driver 004,MorningCheckIn,0,1,,,,
+Route-00126,2026-08-08,Saturday,Driver 015,Completed,1,0,,20:17:03,20.28,
+Route-00127,2026-08-08,Saturday,Driver 005,Completed,1,0,,20:17:00,20.28,
+Route-00128,2026-08-08,Saturday,Driver 013,Completed,1,0,,15:59:31,15.99,
+Route-00129,2026-08-08,Saturday,Driver 009,Completed,1,0,,18:00:23,18.01,
+Route-00130,2026-08-08,Saturday,Driver 018,Completed,1,0,,16:44:25,16.74,
+Route-00131,2026-08-08,Saturday,Driver 008,Completed,1,0,,20:17:11,20.29,
+Route-00132,2026-08-08,Saturday,Driver 014,Completed,1,0,,17:45:09,17.75,
+Route-00133,2026-08-08,Saturday,Driver 022,Completed,1,0,,16:36:49,16.61,
+Route-00134,2026-08-08,Saturday,Driver 016,Completed,1,0,,20:17:05,20.28,
+Route-00135,2026-08-08,Saturday,Driver 010,Completed,1,0,,17:59:40,17.99,
+Route-00136,2026-08-08,Saturday,Driver 027,Completed,1,0,,14:25:13,14.42,
+Route-00137,2026-08-08,Saturday,Driver 021,Completed,1,0,,15:59:24,15.99,
+Route-00138,2026-08-08,Saturday,Driver 006,Completed,1,0,,17:39:46,17.66,
+Route-00139,2026-08-08,Saturday,Driver 024,Completed,1,0,,20:16:48,20.28,
+Route-00140,2026-08-09,Sunday,Driver 004,Completed,1,0,,18:44:48,18.75,
+Route-00141,2026-08-09,Sunday,Driver 005,Completed,1,0,,19:25:51,19.43,
+Route-00142,2026-08-09,Sunday,Driver 023,Completed,1,0,,15:59:19,15.99,
+Route-00143,2026-08-09,Sunday,Driver 020,Completed,1,1,,19:25:55,19.43,
+Route-00144,2026-08-09,Sunday,Driver 015,Completed,1,0,,17:15:06,17.25,
+Route-00145,2026-08-09,Sunday,Driver 010,Completed,1,0,,16:08:38,16.14,
+Route-00146,2026-08-09,Sunday,Driver 002,Completed,1,0,,18:29:29,18.49,
+Route-00147,2026-08-09,Sunday,Driver 011,Completed,1,1,,18:11:43,18.2,
+Route-00148,2026-08-09,Sunday,Driver 018,Completed,1,0,,17:16:18,17.27,
+Route-00149,2026-08-09,Sunday,Driver 016,Completed,1,0,,18:43:48,18.73,
+Route-00150,2026-08-09,Sunday,Driver 006,Completed,1,0,,18:33:04,18.55,
+Route-00151,2026-08-09,Sunday,Driver 022,Completed,1,0,,17:56:25,17.94,
+Route-00152,2026-08-10,Monday,Driver 007,Completed,1,0,,17:54:59,17.92,
+Route-00153,2026-08-10,Monday,Driver 024,Completed,1,0,,19:29:36,19.49,
+Route-00154,2026-08-10,Monday,Driver 003,Completed,1,0,,17:55:03,17.92,
+Route-00155,2026-08-10,Monday,Driver 028,Completed,1,0,,17:55:04,17.92,
+Route-00156,2026-08-10,Monday,Driver 006,Completed,1,0,,18:29:20,18.49,
+Route-00157,2026-08-10,Monday,Driver 020,Completed,1,0,,18:14:36,18.24,
+Route-00158,2026-08-10,Monday,Driver 012,Completed,1,0,,18:29:46,18.5,
+Route-00159,2026-08-10,Monday,Driver 008,Completed,1,0,,16:24:15,16.4,
+Route-00160,2026-08-10,Monday,Driver 010,Completed,1,0,,17:55:22,17.92,
+Route-00161,2026-08-10,Monday,Driver 005,MorningCheckIn,0,1,,,,
+Route-00162,2026-08-10,Monday,Driver 014,Completed,1,0,,17:55:48,17.93,
+Route-00163,2026-08-10,Monday,Driver 023,Completed,1,0,,19:02:25,19.04,
+Route-00164,2026-08-10,Monday,Driver 011,MorningCheckIn,0,1,,,,
+Route-00165,2026-08-10,Monday,Driver 001,Completed,1,0,,20:08:52,20.15,
+Route-00166,2026-08-10,Monday,Driver 015,Completed,1,0,,17:56:18,17.94,
+Route-00167,2026-08-10,Monday,Driver 017,Completed,1,0,,17:56:22,17.94,
+Route-00168,2026-08-10,Monday,Driver 004,Completed,1,0,,16:09:30,16.16,
+Route-00169,2026-08-10,Monday,Driver 022,Completed,1,0,,16:57:59,16.97,
+Route-00170,2026-08-10,Monday,Driver 016,Completed,1,0,,17:56:28,17.94,
+Route-00171,2026-08-10,Monday,Driver 021,Completed,1,0,,16:58:02,16.97,
+Route-00172,2026-08-10,Monday,Driver 026,Completed,1,0,,18:00:02,18.0,
+Route-00173,2026-08-11,Tuesday,Driver 007,Completed,1,0,,20:10:24,20.17,
+Route-00174,2026-08-11,Tuesday,Driver 016,Completed,1,0,,17:47:48,17.8,
+Route-00175,2026-08-11,Tuesday,Driver 019,Completed,1,0,,18:16:44,18.28,
+Route-00176,2026-08-11,Tuesday,Driver 021,Completed,1,0,,18:02:03,18.03,
+Route-00177,2026-08-11,Tuesday,Driver 006,Completed,1,0,,16:40:10,16.67,
+Route-00178,2026-08-11,Tuesday,Driver 014,Completed,1,0,,17:35:18,17.59,
+Route-00179,2026-08-11,Tuesday,Driver 020,Completed,1,0,,18:28:21,18.47,
+Route-00180,2026-08-11,Tuesday,Driver 023,Completed,1,0,,18:43:33,18.73,
+Route-00181,2026-08-11,Tuesday,Driver 011,Completed,1,1,,21:12:43,21.21,
+Route-00182,2026-08-11,Tuesday,Driver 028,Completed,1,0,,16:53:10,16.89,
+Route-00183,2026-08-11,Tuesday,Driver 008,Completed,1,0,,20:11:07,20.19,
+Route-00184,2026-08-11,Tuesday,Driver 022,Completed,1,0,,18:45:36,18.76,
+Route-00185,2026-08-11,Tuesday,Driver 015,Completed,1,0,,15:25:51,15.43,
+Route-00186,2026-08-11,Tuesday,Driver 018,Completed,1,0,,19:34:43,19.58,
+Route-00187,2026-08-11,Tuesday,Driver 012,Completed,1,0,,16:34:10,16.57,
+Route-00188,2026-08-11,Tuesday,Driver 002,Completed,1,0,,18:20:58,18.35,
+Route-00189,2026-08-11,Tuesday,Driver 004,Completed,1,0,,15:25:51,15.43,
+Route-00190,2026-08-11,Tuesday,Driver 005,Completed,1,0,,20:10:29,20.17,
+Route-00191,2026-08-11,Tuesday,Driver 001,Completed,1,0,,18:43:37,18.73,
+Route-00192,2026-08-11,Tuesday,Driver 010,Completed,1,0,,16:04:14,16.07,
+Route-00193,2026-08-11,Tuesday,Driver 009,Completed,1,0,,15:33:20,15.56,
+Route-00194,2026-08-11,Tuesday,Driver 003,Completed,1,0,,17:35:15,17.59,
+Route-00195,2026-08-12,Wednesday,Driver 007,Completed,1,0,,15:16:33,15.28,
+Route-00196,2026-08-12,Wednesday,Driver 008,Completed,1,0,,15:16:33,15.28,
+Route-00197,2026-08-12,Wednesday,Driver 023,Completed,1,0,,15:16:34,15.28,
+Route-00198,2026-08-12,Wednesday,Driver 021,Completed,1,0,,15:16:35,15.28,
+Route-00199,2026-08-12,Wednesday,Driver 019,Completed,1,0,,15:16:35,15.28,
+Route-00200,2026-08-12,Wednesday,Driver 015,Completed,1,0,,15:16:36,15.28,
+Route-00201,2026-08-12,Wednesday,Driver 001,Completed,1,0,,15:16:36,15.28,
+Route-00202,2026-08-12,Wednesday,Driver 004,Completed,1,0,,15:16:37,15.28,
+Route-00203,2026-08-12,Wednesday,Driver 017,Completed,1,0,,15:16:37,15.28,
+Route-00204,2026-08-12,Wednesday,Driver 016,Completed,1,0,,15:16:37,15.28,
+Route-00205,2026-08-12,Wednesday,Driver 006,Completed,1,0,,15:16:38,15.28,
+Route-00206,2026-08-12,Wednesday,Driver 018,MorningCheckIn,0,1,,,,
+Route-00207,2026-08-12,Wednesday,Driver 003,Completed,1,0,,15:16:39,15.28,
+Route-00208,2026-08-12,Wednesday,Driver 014,Completed,1,0,,15:16:39,15.28,
+Route-00209,2026-08-12,Wednesday,Driver 002,Completed,1,0,,15:16:39,15.28,
+Route-00210,2026-08-12,Wednesday,Driver 028,Completed,1,0,,15:16:40,15.28,
+Route-00211,2026-08-12,Wednesday,Driver 029,Completed,1,0,,15:16:41,15.28,
+Route-00212,2026-08-12,Wednesday,Driver 011,Completed,1,0,,15:16:41,15.28,
+Route-00213,2026-08-12,Wednesday,Driver 005,Completed,1,0,,15:16:42,15.28,
+Route-00214,2026-08-13,Thursday,Driver 005,Completed,1,0,,18:22:35,18.38,
+Route-00215,2026-08-13,Thursday,Driver 019,Completed,1,0,,16:48:38,16.81,
+Route-00216,2026-08-13,Thursday,Driver 018,Completed,1,0,,20:03:24,20.06,
+Route-00217,2026-08-13,Thursday,Driver 001,Completed,1,0,,20:19:03,20.32,
+Route-00218,2026-08-13,Thursday,Driver 012,Completed,1,0,,16:47:21,16.79,
+Route-00219,2026-08-13,Thursday,Driver 022,Completed,1,0,,19:52:57,19.88,
+Route-00220,2026-08-13,Thursday,Driver 015,Completed,1,0,,17:39:40,17.66,
+Route-00221,2026-08-13,Thursday,Driver 021,Completed,1,0,,17:57:24,17.96,
+Route-00222,2026-08-13,Thursday,Driver 017,Completed,1,0,,16:47:24,16.79,
+Route-00223,2026-08-13,Thursday,Driver 023,Completed,1,0,,17:18:04,17.3,
+Route-00224,2026-08-13,Thursday,Driver 016,Completed,1,0,,20:01:29,20.02,
+Route-00225,2026-08-13,Thursday,Driver 006,Completed,1,0,,19:01:03,19.02,
+Route-00226,2026-08-13,Thursday,Driver 028,Completed,1,0,,20:19:14,20.32,
+Route-00227,2026-08-13,Thursday,Driver 029,Completed,1,0,,19:48:44,19.81,
+Route-00228,2026-08-13,Thursday,Driver 002,Completed,1,0,,20:23:24,20.39,
+Route-00229,2026-08-13,Thursday,Driver 024,Completed,1,0,,16:06:07,16.1,
+Route-00230,2026-08-13,Thursday,Driver 010,Completed,1,0,,17:06:35,17.11,
+Route-00231,2026-08-13,Thursday,Driver 007,Completed,1,1,,18:42:09,18.7,
+Route-00232,2026-08-13,Thursday,Driver 008,Completed,1,0,,18:55:01,18.92,
+Route-00233,2026-08-13,Thursday,Driver 004,Completed,1,0,,14:57:50,14.96,
+Route-00234,2026-08-14,Friday,Driver 002,Completed,1,0,,18:03:09,18.05,
+Route-00235,2026-08-14,Friday,Driver 011,Completed,1,0,,20:35:43,20.6,
+Route-00236,2026-08-14,Friday,Driver 012,Completed,1,0,,17:05:14,17.09,
+Route-00237,2026-08-14,Friday,Driver 028,Completed,1,0,,18:00:45,18.01,
+Route-00238,2026-08-14,Friday,Driver 014,Completed,1,0,,18:57:54,18.96,
+Route-00239,2026-08-14,Friday,Driver 026,Completed,1,0,,17:41:06,17.68,
+Route-00240,2026-08-14,Friday,Driver 022,Completed,1,0,,18:42:12,18.7,
+Route-00241,2026-08-14,Friday,Driver 005,Completed,1,0,,19:37:32,19.63,
+Route-00242,2026-08-14,Friday,Driver 029,Completed,1,0,,18:58:09,18.97,
+Route-00243,2026-08-14,Friday,Driver 001,Completed,1,0,,20:07:42,20.13,
+Route-00244,2026-08-14,Friday,Driver 024,Completed,1,0,,17:41:24,17.69,
+Route-00245,2026-08-14,Friday,Driver 010,Completed,1,0,,18:22:11,18.37,
+Route-00246,2026-08-14,Friday,Driver 019,Completed,1,0,,17:24:54,17.41,
+Route-00247,2026-08-14,Friday,Driver 004,Completed,1,0,,17:41:13,17.69,
+Route-00248,2026-08-14,Friday,Driver 006,Completed,1,0,,17:26:12,17.44,
+Route-00249,2026-08-14,Friday,Driver 007,Completed,1,0,,18:41:08,18.69,
+Route-00250,2026-08-14,Friday,Driver 003,Completed,1,0,,20:20:36,20.34,
+Route-00251,2026-08-14,Friday,Driver 021,Completed,1,0,,17:05:24,17.09,
+Route-00252,2026-08-14,Friday,Driver 017,Completed,1,0,,15:08:56,15.15,
+Route-00253,2026-08-14,Friday,Driver 023,Completed,1,0,,16:50:26,16.84,
+Route-00254,2026-08-14,Friday,Driver 015,Completed,1,0,,17:18:59,17.32,
+Route-00255,2026-08-15,Saturday,Driver 002,Completed,1,0,,17:38:14,17.64,
+Route-00256,2026-08-15,Saturday,Driver 018,Completed,1,0,,19:28:28,19.47,
+Route-00257,2026-08-15,Saturday,Driver 022,Completed,1,0,,17:59:33,17.99,
+Route-00258,2026-08-15,Saturday,Driver 014,Completed,1,0,,19:44:18,19.74,
+Route-00259,2026-08-15,Saturday,Driver 023,Completed,1,0,,14:58:43,14.98,
+Route-00260,2026-08-15,Saturday,Driver 029,Completed,1,0,,17:25:47,17.43,
+Route-00261,2026-08-15,Saturday,Driver 006,Completed,1,0,,17:38:23,17.64,
+Route-00262,2026-08-15,Saturday,Driver 017,Completed,1,0,,17:14:42,17.25,
+Route-00263,2026-08-15,Saturday,Driver 004,Completed,1,0,,18:21:04,18.35,
+Route-00264,2026-08-15,Saturday,Driver 026,Completed,1,0,,15:31:58,15.53,
+Route-00265,2026-08-15,Saturday,Driver 028,Completed,1,0,,17:59:53,18.0,
+Route-00266,2026-08-15,Saturday,Driver 024,Completed,1,0,,18:57:22,18.96,
+Route-00267,2026-08-15,Saturday,Driver 003,Completed,1,0,,17:14:46,17.25,
+Route-00268,2026-08-15,Saturday,Driver 007,Completed,1,0,,20:18:56,20.32,
+Route-00269,2026-08-15,Saturday,Driver 016,Completed,1,0,,18:36:05,18.6,
+Route-00270,2026-08-15,Saturday,Driver 005,Completed,1,0,,18:36:01,18.6,
+Route-00271,2026-08-15,Saturday,Driver 012,Completed,1,0,,18:56:40,18.94,
+Route-00272,2026-08-15,Saturday,Driver 010,Completed,1,0,,18:56:41,18.94,
+Route-00273,2026-08-15,Saturday,Driver 001,MorningCheckIn,0,1,,,,
+Route-00274,2026-08-15,Saturday,Driver 021,Completed,1,0,,16:02:51,16.05,
+Route-00275,2026-08-16,Sunday,Driver 002,Completed,1,0,,17:15:31,17.26,
+Route-00276,2026-08-16,Sunday,Driver 023,Completed,1,0,,17:50:26,17.84,
+Route-00277,2026-08-16,Sunday,Driver 006,Completed,1,0,,18:12:10,18.2,
+Route-00278,2026-08-16,Sunday,Driver 026,Completed,1,0,,15:21:57,15.37,
+Route-00279,2026-08-16,Sunday,Driver 022,Completed,1,0,,18:43:19,18.72,
+Route-00280,2026-08-16,Sunday,Driver 011,Completed,1,0,,18:30:36,18.51,
+Route-00281,2026-08-16,Sunday,Driver 016,Completed,1,0,,16:39:35,16.66,
+Route-00282,2026-08-16,Sunday,Driver 030,Completed,1,0,,19:01:40,19.03,
+Route-00283,2026-08-16,Sunday,Driver 021,Completed,1,0,,15:54:12,15.9,
+Route-00284,2026-08-16,Sunday,Driver 028,Completed,1,0,,19:12:39,19.21,
+Route-00285,2026-08-16,Sunday,Driver 029,Completed,1,0,,16:14:54,16.25,
+Route-00286,2026-08-16,Sunday,Driver 010,Completed,1,0,,18:16:45,18.28,
+Route-00287,2026-08-17,Monday,Driver 002,Completed,1,0,,19:24:47,19.41,
+Route-00288,2026-08-17,Monday,Driver 014,Completed,1,0,,16:57:24,16.96,
+Route-00289,2026-08-17,Monday,Driver 001,Completed,1,0,,19:52:46,19.88,
+Route-00290,2026-08-17,Monday,Driver 006,Completed,1,0,,15:05:37,15.09,
+Route-00291,2026-08-17,Monday,Driver 004,Completed,1,0,,17:46:58,17.78,
+Route-00292,2026-08-17,Monday,Driver 003,Completed,1,0,,18:19:13,18.32,
+Route-00293,2026-08-17,Monday,Driver 016,Completed,1,0,,18:00:26,18.01,
+Route-00294,2026-08-17,Monday,Driver 005,Completed,1,0,,19:52:51,19.88,
+Route-00295,2026-08-17,Monday,Driver 029,Completed,1,0,,16:48:03,16.8,
+Route-00296,2026-08-17,Monday,Driver 021,Completed,1,0,,14:42:55,14.72,
+Route-00297,2026-08-17,Monday,Driver 023,Completed,1,0,,16:59:25,16.99,
+Route-00298,2026-08-17,Monday,Driver 020,Completed,1,0,,18:33:38,18.56,
+Route-00299,2026-08-17,Monday,Driver 007,Completed,1,0,,18:16:42,18.28,
+Route-00300,2026-08-17,Monday,Driver 024,Completed,1,0,,18:00:28,18.01,
+Route-00301,2026-08-17,Monday,Driver 019,Completed,1,0,,19:08:04,19.13,
+Route-00302,2026-08-17,Monday,Driver 030,Completed,1,0,,20:14:57,20.25,
+Route-00303,2026-08-17,Monday,Driver 022,Completed,1,0,,19:24:46,19.41,
+Route-00304,2026-08-17,Monday,Driver 015,Completed,1,0,,17:47:21,17.79,
+Route-00305,2026-08-17,Monday,Driver 012,Completed,1,0,,18:33:34,18.56,
+Route-00306,2026-08-17,Monday,Driver 010,Completed,1,0,,17:21:24,17.36,
+Route-00307,2026-08-17,Monday,Driver 008,No Show,0,0,,,,
+Route-00308,2026-08-17,Monday,Driver 017,Completed,1,0,,18:17:47,18.3,
+Route-00309,2026-08-18,Tuesday,Driver 004,Completed,1,0,,14:04:24,14.07,
+Route-00310,2026-08-18,Tuesday,Driver 011,Completed,1,0,,14:04:24,14.07,
+Route-00311,2026-08-18,Tuesday,Driver 019,Completed,1,0,,14:04:24,14.07,
+Route-00312,2026-08-18,Tuesday,Driver 003,Completed,1,0,,14:04:24,14.07,
+Route-00313,2026-08-18,Tuesday,Driver 022,Completed,1,0,,14:04:24,14.07,
+Route-00314,2026-08-18,Tuesday,Driver 029,Completed,1,0,,14:04:24,14.07,
+Route-00315,2026-08-18,Tuesday,Driver 020,Completed,1,0,,14:04:24,14.07,
+Route-00316,2026-08-18,Tuesday,Driver 023,Completed,1,0,,14:04:24,14.07,
+Route-00317,2026-08-18,Tuesday,Driver 012,Completed,1,0,,14:04:24,14.07,
+Route-00318,2026-08-18,Tuesday,Driver 021,Completed,1,0,,14:04:24,14.07,
+Route-00319,2026-08-18,Tuesday,Driver 026,Completed,1,0,,14:04:24,14.07,
+Route-00320,2026-08-18,Tuesday,Driver 017,Completed,1,0,,14:04:24,14.07,
+Route-00321,2026-08-18,Tuesday,Driver 014,Completed,1,0,,14:04:24,14.07,
+Route-00322,2026-08-18,Tuesday,Driver 010,Completed,1,0,,14:04:24,14.07,
+Route-00323,2026-08-18,Tuesday,Driver 007,Completed,1,0,,14:04:24,14.07,
+Route-00324,2026-08-18,Tuesday,Driver 015,Completed,1,0,,14:04:24,14.07,
+Route-00325,2026-08-18,Tuesday,Driver 018,Completed,1,0,,14:04:24,14.07,
+Route-00326,2026-08-18,Tuesday,Driver 008,Completed,1,0,,14:04:24,14.07,
+Route-00327,2026-08-18,Tuesday,Driver 005,Completed,1,0,,14:04:24,14.07,
+Route-00328,2026-08-18,Tuesday,Driver 002,Completed,1,0,,14:04:24,14.07,
+Route-00329,2026-08-18,Tuesday,Driver 006,Completed,1,0,,14:04:24,14.07,
+Route-00330,2026-08-18,Tuesday,Driver 028,Completed,1,0,,14:04:24,14.07,
+Route-00331,2026-08-19,Wednesday,Driver 002,Completed,1,0,,19:05:11,19.09,
+Route-00332,2026-08-19,Wednesday,Driver 024,Completed,1,0,,17:38:09,17.64,
+Route-00333,2026-08-19,Wednesday,Driver 007,Completed,1,0,,20:59:04,20.98,
+Route-00334,2026-08-19,Wednesday,Driver 026,Completed,1,0,,15:37:54,15.63,
+Route-00335,2026-08-19,Wednesday,Driver 019,Completed,1,0,,19:31:05,19.52,
+Route-00336,2026-08-19,Wednesday,Driver 030,Completed,1,0,,18:47:41,18.79,
+Route-00337,2026-08-19,Wednesday,Driver 008,Completed,1,0,,17:38:24,17.64,
+Route-00338,2026-08-19,Wednesday,Driver 014,Completed,1,0,,18:27:48,18.46,
+Route-00339,2026-08-19,Wednesday,Driver 006,Completed,1,0,,17:38:33,17.64,
+Route-00340,2026-08-19,Wednesday,Driver 022,Completed,1,0,,16:30:14,16.5,
+Route-00341,2026-08-19,Wednesday,Driver 021,Completed,1,0,,18:07:09,18.12,
+Route-00342,2026-08-19,Wednesday,Driver 004,Completed,1,0,,19:31:24,19.52,
+Route-00343,2026-08-19,Wednesday,Driver 020,Completed,1,0,,17:39:08,17.65,
+Route-00344,2026-08-19,Wednesday,Driver 015,Completed,1,0,,19:05:12,19.09,
+Route-00345,2026-08-19,Wednesday,Driver 016,Completed,1,0,,17:39:26,17.66,
+Route-00346,2026-08-19,Wednesday,Driver 005,Completed,1,0,,19:35:53,19.6,
+Route-00347,2026-08-19,Wednesday,Driver 003,Completed,1,0,,17:39:33,17.66,
+Route-00348,2026-08-19,Wednesday,Driver 011,Completed,1,0,,18:38:53,18.65,
+Route-00349,2026-08-19,Wednesday,Driver 017,Completed,1,0,,17:39:43,17.66,
+Route-00350,2026-08-19,Wednesday,Driver 010,Completed,1,0,,17:39:47,17.66,
+Route-00351,2026-08-19,Wednesday,Driver 023,Completed,1,0,,18:07:13,18.12,
+Route-00352,2026-08-19,Wednesday,Driver 029,Completed,1,0,,17:39:54,17.66,
+Route-00353,2026-08-19,Wednesday,Driver 001,Completed,1,0,,15:40:28,15.67,
+Route-00354,2026-08-20,Thursday,Driver 019,Completed,1,0,,19:45:08,19.75,
+Route-00355,2026-08-20,Thursday,Driver 012,Completed,1,0,,15:56:37,15.94,
+Route-00356,2026-08-20,Thursday,Driver 017,Completed,1,0,,19:13:14,19.22,
+Route-00357,2026-08-20,Thursday,Driver 011,Completed,1,0,,17:50:38,17.84,
+Route-00358,2026-08-20,Thursday,Driver 010,Completed,1,0,,19:13:33,19.23,
+Route-00359,2026-08-20,Thursday,Driver 021,Completed,1,0,,17:13:33,17.23,
+Route-00360,2026-08-20,Thursday,Driver 022,Completed,1,0,,17:50:44,17.85,
+Route-00361,2026-08-20,Thursday,Driver 026,Completed,1,0,,17:13:20,17.22,
+Route-00362,2026-08-20,Thursday,Driver 005,Completed,1,0,,18:40:29,18.67,
+Route-00363,2026-08-20,Thursday,Driver 024,Completed,1,0,,17:50:17,17.84,
+Route-00364,2026-08-20,Thursday,Driver 014,Completed,1,0,,18:39:17,18.65,
+Route-00365,2026-08-20,Thursday,Driver 008,Completed,1,0,,18:03:21,18.06,
+Route-00366,2026-08-20,Thursday,Driver 020,Completed,1,0,,16:30:17,16.5,
+Route-00367,2026-08-20,Thursday,Driver 003,Completed,1,0,,19:05:57,19.1,
+Route-00368,2026-08-20,Thursday,Driver 016,Completed,1,0,,19:30:41,19.51,
+Route-00369,2026-08-20,Thursday,Driver 023,Completed,1,0,,19:13:18,19.22,
+Route-00370,2026-08-20,Thursday,Driver 002,Completed,1,0,,21:16:14,21.27,
+Route-00371,2026-08-20,Thursday,Driver 018,Completed,1,0,,18:52:28,18.87,
+Route-00372,2026-08-20,Thursday,Driver 009,MorningCheckIn,0,1,,,,
+Route-00373,2026-08-20,Thursday,Driver 004,Completed,1,0,,20:01:21,20.02,
+Route-00374,2026-08-20,Thursday,Driver 028,Completed,1,0,,19:26:53,19.45,
+Route-00375,2026-08-20,Thursday,Driver 029,Completed,1,0,,16:38:07,16.64,
+Route-00376,2026-08-20,Thursday,Driver 006,Completed,1,0,,19:30:48,19.51,
+Route-00377,2026-08-21,Friday,Driver 001,Completed,1,0,,20:09:13,20.15,
+Route-00378,2026-08-21,Friday,Driver 008,Completed,1,0,,16:42:46,16.71,
+Route-00379,2026-08-21,Friday,Driver 019,Completed,1,0,,21:10:06,21.17,
+Route-00380,2026-08-21,Friday,Driver 024,Completed,1,0,,19:28:11,19.47,
+Route-00381,2026-08-21,Friday,Driver 017,Completed,1,0,,17:06:08,17.1,
+Route-00382,2026-08-21,Friday,Driver 028,Completed,1,0,,18:13:19,18.22,
+Route-00383,2026-08-21,Friday,Driver 010,Completed,1,0,,20:28:43,20.48,
+Route-00384,2026-08-21,Friday,Driver 003,Completed,1,0,,18:46:41,18.78,
+Route-00385,2026-08-21,Friday,Driver 014,Completed,1,0,,15:14:06,15.23,
+Route-00386,2026-08-21,Friday,Driver 018,Completed,1,0,,18:46:07,18.77,
+Route-00387,2026-08-21,Friday,Driver 022,Completed,1,0,,20:11:18,20.19,
+Route-00388,2026-08-21,Friday,Driver 023,Completed,1,0,,18:51:26,18.86,
+Route-00389,2026-08-21,Friday,Driver 009,Completed,1,0,,19:27:47,19.46,
+Route-00390,2026-08-21,Friday,Driver 030,Completed,1,0,,14:36:35,14.61,
+Route-00391,2026-08-21,Friday,Driver 021,Completed,1,0,,16:38:55,16.65,
+Route-00392,2026-08-21,Friday,Driver 007,Completed,1,0,,17:24:57,17.42,
+Route-00393,2026-08-21,Friday,Driver 031,Completed,1,0,,18:46:56,18.78,
+Route-00394,2026-08-21,Friday,Driver 005,Completed,1,0,,19:51:53,19.86,
+Route-00395,2026-08-21,Friday,Driver 006,Completed,1,0,,18:53:45,18.9,
+Route-00396,2026-08-21,Friday,Driver 026,Completed,1,0,,20:11:17,20.19,
+Route-00397,2026-08-21,Friday,Driver 029,Completed,1,0,,16:37:40,16.63,
+Route-00398,2026-08-21,Friday,Driver 015,Completed,1,0,,18:13:50,18.23,
+Route-00399,2026-08-22,Saturday,Driver 015,Completed,1,0,,19:04:39,19.08,
+Route-00400,2026-08-22,Saturday,Driver 020,Completed,1,0,,19:04:47,19.08,
+Route-00401,2026-08-22,Saturday,Driver 006,Completed,1,0,,19:20:55,19.35,
+Route-00402,2026-08-22,Saturday,Driver 016,Completed,1,0,,19:04:53,19.08,
+Route-00403,2026-08-22,Saturday,Driver 007,MorningCheckIn,0,1,,,,
+Route-00404,2026-08-22,Saturday,Driver 010,MorningCheckIn,0,1,,,,
+Route-00405,2026-08-22,Saturday,Driver 012,Completed,1,0,,16:08:02,16.13,
+Route-00406,2026-08-22,Saturday,Driver 004,Completed,1,0,,16:08:12,16.14,
+Route-00407,2026-08-22,Saturday,Driver 029,Completed,1,0,,17:48:33,17.81,
+Route-00408,2026-08-22,Saturday,Driver 018,Completed,1,0,,20:28:38,20.48,
+Route-00409,2026-08-22,Saturday,Driver 024,Completed,1,0,,17:58:15,17.97,
+Route-00410,2026-08-22,Saturday,Driver 031,Completed,1,0,,16:08:21,16.14,
+Route-00411,2026-08-22,Saturday,Driver 028,Completed,1,0,,16:08:31,16.14,
+Route-00412,2026-08-22,Saturday,Driver 005,MorningCheckIn,0,1,,,,
+Route-00413,2026-08-22,Saturday,Driver 021,Completed,1,0,,16:08:32,16.14,
+Route-00414,2026-08-22,Saturday,Driver 026,Completed,1,0,,19:52:09,19.87,
+Route-00415,2026-08-22,Saturday,Driver 019,MorningCheckIn,0,1,,,,
+Route-00416,2026-08-22,Saturday,Driver 014,Completed,1,0,,19:05:17,19.09,
+Route-00417,2026-08-22,Saturday,Driver 022,Completed,1,0,,19:05:18,19.09,
+Route-00418,2026-08-22,Saturday,Driver 002,Completed,1,0,,17:49:09,17.82,
+Route-00419,2026-08-22,Saturday,Driver 009,Completed,1,0,,20:28:31,20.48,
+Route-00420,2026-08-22,Saturday,Driver 003,Completed,1,0,,18:06:05,18.1,
+Route-00421,2026-08-22,Saturday,Driver 017,Completed,1,0,,20:15:18,20.25,
+Route-00422,2026-08-23,Sunday,Driver 006,MorningCheckIn,0,1,,,,
+Route-00423,2026-08-23,Sunday,Driver 029,Completed,1,0,,19:12:27,19.21,
+Route-00424,2026-08-23,Sunday,Driver 021,Completed,1,0,,16:53:13,16.89,
+Route-00425,2026-08-23,Sunday,Driver 002,Completed,1,0,,18:07:33,18.13,
+Route-00426,2026-08-23,Sunday,Driver 026,Completed,1,0,,16:00:11,16.0,
+Route-00427,2026-08-23,Sunday,Driver 031,Completed,1,0,,17:28:42,17.48,
+Route-00428,2026-08-23,Sunday,Driver 022,Completed,1,0,,17:11:46,17.2,
+Route-00429,2026-08-23,Sunday,Driver 020,Completed,1,0,,18:49:56,18.83,
+Route-00430,2026-08-23,Sunday,Driver 004,Completed,1,0,,16:42:23,16.71,
+Route-00431,2026-08-23,Sunday,Driver 005,Completed,1,0,,18:54:40,18.91,
+Route-00432,2026-08-23,Sunday,Driver 008,Completed,1,0,,14:24:30,14.41,
+Route-00433,2026-08-23,Sunday,Driver 019,Completed,1,0,,19:49:20,19.82,
+Route-00434,2026-08-24,Monday,Driver 031,Completed,1,0,,15:58:42,15.98,
+Route-00435,2026-08-24,Monday,Driver 003,Completed,1,0,,18:21:11,18.35,
+Route-00436,2026-08-24,Monday,Driver 032,Completed,1,0,,15:51:45,15.86,
+Route-00437,2026-08-24,Monday,Driver 001,Completed,1,0,,17:20:32,17.34,
+Route-00438,2026-08-24,Monday,Driver 019,Completed,1,0,,19:42:54,19.71,
+Route-00439,2026-08-24,Monday,Driver 010,Completed,1,0,,15:11:07,15.19,
+Route-00440,2026-08-24,Monday,Driver 004,MorningCheckIn,0,1,,,,
+Route-00441,2026-08-24,Monday,Driver 025,Completed,1,0,,17:20:35,17.34,
+Route-00442,2026-08-24,Monday,Driver 028,Completed,1,0,,17:21:22,17.36,
+Route-00443,2026-08-24,Monday,Driver 033,Completed,1,0,,16:48:26,16.81,
+Route-00444,2026-08-24,Monday,Driver 034,MorningCheckIn,0,1,,,,
+Route-00445,2026-08-24,Monday,Driver 007,Completed,1,0,,17:21:31,17.36,
+Route-00446,2026-08-24,Monday,Driver 008,Completed,1,0,,18:21:22,18.36,
+Route-00447,2026-08-24,Monday,Driver 017,Completed,1,0,,18:17:10,18.29,
+Route-00448,2026-08-24,Monday,Driver 012,Completed,1,0,,15:31:40,15.53,
+Route-00449,2026-08-24,Monday,Driver 005,Completed,1,0,,18:21:03,18.35,
+Route-00450,2026-08-24,Monday,Driver 009,Completed,1,0,,15:07:17,15.12,
+Route-00451,2026-08-24,Monday,Driver 002,Completed,1,0,,19:28:38,19.48,
+Route-00452,2026-08-24,Monday,Driver 023,Completed,1,0,,18:28:34,18.48,
+Route-00453,2026-08-24,Monday,Driver 035,Completed,1,0,,19:43:18,19.72,
+Route-00454,2026-08-24,Monday,Driver 016,Completed,1,0,,18:16:53,18.28,
+Route-00455,2026-08-24,Monday,Driver 030,Completed,1,0,,18:28:35,18.48,
+Route-00456,2026-08-24,Monday,Driver 022,Completed,1,0,,18:44:34,18.74,
+Route-00457,2026-08-24,Monday,Driver 029,Completed,1,0,,14:21:22,14.36,
+Route-00458,2026-08-24,Monday,Driver 020,Completed,1,0,,19:09:19,19.16,
+Route-00459,2026-08-24,Monday,Driver 021,Completed,1,0,,18:16:50,18.28,
+Route-00460,2026-08-24,Monday,Driver 015,Completed,1,0,,18:21:18,18.36,
+Route-00461,2026-08-25,Tuesday,Driver 025,Completed,1,0,,18:08:21,18.14,
+Route-00462,2026-08-25,Tuesday,Driver 027,Completed,1,0,,14:25:11,14.42,
+Route-00463,2026-08-25,Tuesday,Driver 006,Completed,1,0,,19:03:01,19.05,
+Route-00464,2026-08-25,Tuesday,Driver 028,Completed,1,0,,16:57:01,16.95,
+Route-00465,2026-08-25,Tuesday,Driver 020,Completed,1,0,,19:34:09,19.57,
+Route-00466,2026-08-25,Tuesday,Driver 029,Completed,1,0,,16:09:01,16.15,
+Route-00467,2026-08-25,Tuesday,Driver 023,Completed,1,0,,17:28:15,17.47,
+Route-00468,2026-08-25,Tuesday,Driver 026,Completed,1,0,,16:05:22,16.09,
+Route-00469,2026-08-25,Tuesday,Driver 015,Completed,1,0,,19:21:00,19.35,
+Route-00470,2026-08-25,Tuesday,Driver 016,Completed,1,0,,16:46:14,16.77,
+Route-00471,2026-08-25,Tuesday,Driver 017,Completed,1,0,,16:29:28,16.49,
+Route-00472,2026-08-25,Tuesday,Driver 019,Completed,1,0,,20:29:44,20.5,
+Route-00473,2026-08-25,Tuesday,Driver 010,Completed,1,0,,16:49:14,16.82,
+Route-00474,2026-08-25,Tuesday,Driver 014,Completed,1,0,,19:58:11,19.97,
+Route-00475,2026-08-25,Tuesday,Driver 012,Completed,1,0,,18:00:03,18.0,
+Route-00476,2026-08-25,Tuesday,Driver 001,Completed,1,0,,16:39:33,16.66,
+Route-00477,2026-08-25,Tuesday,Driver 021,Completed,1,0,,15:18:08,15.3,
+Route-00478,2026-08-25,Tuesday,Driver 032,Completed,1,0,,16:26:30,16.44,
+Route-00479,2026-08-25,Tuesday,Driver 013,Completed,1,0,,14:31:08,14.52,
+Route-00480,2026-08-25,Tuesday,Driver 002,Completed,1,0,,16:31:15,16.52,
+Route-00481,2026-08-25,Tuesday,Driver 008,Completed,1,0,,16:40:16,16.67,
+Route-00482,2026-08-25,Tuesday,Driver 004,Completed,1,0,,19:54:54,19.91,
+Route-00483,2026-08-25,Tuesday,Driver 009,Completed,1,0,,17:54:16,17.9,
+Route-00484,2026-08-25,Tuesday,Driver 005,Completed,1,0,,20:18:57,20.32,
+Route-00485,2026-08-26,Wednesday,Driver 001,Completed,1,0,,16:05:48,16.1,
+Route-00486,2026-08-26,Wednesday,Driver 021,Completed,1,0,,15:18:07,15.3,
+Route-00487,2026-08-26,Wednesday,Driver 023,Completed,1,0,,17:31:44,17.53,
+Route-00488,2026-08-26,Wednesday,Driver 007,Completed,1,0,,21:06:34,21.11,
+Route-00489,2026-08-26,Wednesday,Driver 025,Completed,1,0,,17:26:49,17.45,
+Route-00490,2026-08-26,Wednesday,Driver 005,Completed,1,0,,20:20:31,20.34,
+Route-00491,2026-08-26,Wednesday,Driver 028,Completed,1,0,,16:06:24,16.11,
+Route-00492,2026-08-26,Wednesday,Driver 015,Completed,1,0,,16:40:31,16.68,
+Route-00493,2026-08-26,Wednesday,Driver 022,Completed,1,0,,20:20:06,20.33,
+Route-00494,2026-08-26,Wednesday,Driver 029,Completed,1,0,,15:11:49,15.2,
+Route-00495,2026-08-26,Wednesday,Driver 009,Completed,1,0,,15:20:40,15.34,
+Route-00496,2026-08-26,Wednesday,Driver 010,Completed,1,0,,18:01:58,18.03,
+Route-00497,2026-08-26,Wednesday,Driver 032,Completed,1,0,,15:29:14,15.49,
+Route-00498,2026-08-26,Wednesday,Driver 020,Completed,1,0,,17:34:26,17.57,
+Route-00499,2026-08-26,Wednesday,Driver 002,Completed,1,0,,17:15:42,17.26,
+Route-00500,2026-08-26,Wednesday,Driver 030,Completed,1,0,,18:44:42,18.75,
+Route-00501,2026-08-26,Wednesday,Driver 026,Completed,1,0,,17:47:51,17.8,
+Route-00502,2026-08-26,Wednesday,Driver 017,Completed,1,0,,18:38:52,18.65,
+Route-00503,2026-08-26,Wednesday,Driver 013,Completed,1,0,,17:26:03,17.43,
+Route-00504,2026-08-26,Wednesday,Driver 033,Completed,1,0,,17:15:42,17.26,
+Route-00505,2026-08-27,Thursday,Driver 028,Completed,1,0,,16:09:23,16.16,
+Route-00506,2026-08-27,Thursday,Driver 005,Completed,1,0,,19:29:09,19.49,
+Route-00507,2026-08-27,Thursday,Driver 004,Completed,1,0,,18:39:09,18.65,
+Route-00508,2026-08-27,Thursday,Driver 033,Completed,1,0,,18:54:00,18.9,
+Route-00509,2026-08-27,Thursday,Driver 029,Completed,1,0,,20:15:56,20.27,
+Route-00510,2026-08-27,Thursday,Driver 023,Completed,1,0,,20:14:51,20.25,
+Route-00511,2026-08-27,Thursday,Driver 021,Completed,1,0,,15:42:44,15.71,
+Route-00512,2026-08-27,Thursday,Driver 008,Completed,1,0,,16:53:59,16.9,
+Route-00513,2026-08-27,Thursday,Driver 022,Completed,1,0,,18:45:02,18.75,
+Route-00514,2026-08-27,Thursday,Driver 031,Completed,1,0,,18:39:05,18.65,
+Route-00515,2026-08-27,Thursday,Driver 010,Completed,1,0,,19:30:28,19.51,
+Route-00516,2026-08-27,Thursday,Driver 006,Completed,1,0,,17:26:22,17.44,
+Route-00517,2026-08-27,Thursday,Driver 014,Completed,1,0,,20:27:43,20.46,
+Route-00518,2026-08-27,Thursday,Driver 036,Completed,1,0,,18:37:46,18.63,
+Route-00519,2026-08-27,Thursday,Driver 007,Completed,1,0,,19:17:10,19.29,
+Route-00520,2026-08-27,Thursday,Driver 035,Completed,1,0,,14:21:15,14.35,
+Route-00521,2026-08-27,Thursday,Driver 017,Completed,1,0,,16:02:08,16.04,
+Route-00522,2026-08-27,Thursday,Driver 018,Completed,1,0,,18:37:32,18.63,
+Route-00523,2026-08-27,Thursday,Driver 026,Completed,1,0,,19:41:22,19.69,
+Route-00524,2026-08-27,Thursday,Driver 019,Completed,1,0,,19:24:06,19.4,
+Route-00525,2026-08-27,Thursday,Driver 002,Completed,1,0,,19:40:30,19.68,
+Route-00526,2026-08-27,Thursday,Driver 016,Completed,1,0,,16:15:06,16.25,
+Route-00527,2026-08-27,Thursday,Driver 030,Completed,1,0,,18:53:55,18.9,
+Route-00528,2026-08-27,Thursday,Driver 009,Completed,1,0,,18:37:51,18.63,
+Route-00529,2026-08-27,Thursday,Driver 012,Completed,1,0,,17:07:16,17.12,
+Route-00530,2026-08-27,Thursday,Driver 024,Completed,1,0,,18:46:53,18.78,
+Route-00531,2026-08-28,Friday,Driver 018,Completed,1,0,,16:24:30,16.41,
+Route-00532,2026-08-28,Friday,Driver 033,Completed,1,0,,17:54:48,17.91,
+Route-00533,2026-08-28,Friday,Driver 014,Completed,1,0,,16:59:15,16.99,
+Route-00534,2026-08-28,Friday,Driver 012,Completed,1,0,,16:58:24,16.97,
+Route-00535,2026-08-28,Friday,Driver 022,Completed,1,0,,16:24:33,16.41,
+Route-00536,2026-08-28,Friday,Driver 026,Completed,1,0,,16:17:14,16.29,
+Route-00537,2026-08-28,Friday,Driver 005,Completed,1,0,,20:54:29,20.91,
+Route-00538,2026-08-28,Friday,Driver 021,Completed,1,0,,17:30:45,17.51,
+Route-00539,2026-08-28,Friday,Driver 010,Completed,1,0,,18:51:47,18.86,
+Route-00540,2026-08-28,Friday,Driver 008,Completed,1,0,,16:17:05,16.28,
+Route-00541,2026-08-28,Friday,Driver 019,MorningCheckIn,0,1,,,,
+Route-00542,2026-08-28,Friday,Driver 017,Completed,1,0,,16:28:15,16.47,
+Route-00543,2026-08-28,Friday,Driver 004,Completed,1,0,,16:52:21,16.87,
+Route-00544,2026-08-28,Friday,Driver 015,Completed,1,0,,16:58:33,16.98,
+Route-00545,2026-08-28,Friday,Driver 020,Completed,1,0,,20:28:43,20.48,
+Route-00546,2026-08-28,Friday,Driver 036,Completed,1,0,,18:05:15,18.09,
+Route-00547,2026-08-28,Friday,Driver 002,Completed,1,0,,19:25:00,19.42,
+Route-00548,2026-08-28,Friday,Driver 028,Completed,1,0,,20:16:12,20.27,
+Route-00549,2026-08-28,Friday,Driver 029,Completed,1,0,,16:17:09,16.29,
+Route-00550,2026-08-28,Friday,Driver 007,MorningCheckIn,0,1,,,,
+Route-00551,2026-08-28,Friday,Driver 030,Completed,1,0,,20:16:09,20.27,
+Route-00552,2026-08-28,Friday,Driver 023,Completed,1,0,,17:31:03,17.52,
+Route-00553,2026-08-28,Friday,Driver 016,Completed,1,0,,17:54:21,17.91,
+Route-00554,2026-08-28,Friday,Driver 035,Completed,1,0,,20:28:41,20.48,
+Route-00555,2026-08-28,Friday,Driver 006,Completed,1,0,,16:17:29,16.29,
+Route-00556,2026-08-28,Friday,Driver 003,Completed,1,0,,22:32:55,22.55,
+Route-00557,2026-08-28,Friday,Driver 024,Completed,1,0,,17:54:17,17.9,
+Route-00558,2026-08-29,Saturday,Driver 002,Completed,1,0,,16:14:14,16.24,
+Route-00559,2026-08-29,Saturday,Driver 012,Completed,1,0,,16:13:59,16.23,
+Route-00560,2026-08-29,Saturday,Driver 014,Completed,1,0,,15:44:37,15.74,
+Route-00561,2026-08-29,Saturday,Driver 009,Completed,1,0,,19:04:05,19.07,
+Route-00562,2026-08-29,Saturday,Driver 022,Completed,1,0,,17:38:06,17.63,
+Route-00563,2026-08-29,Saturday,Driver 028,Completed,1,0,,17:39:17,17.65,
+Route-00564,2026-08-29,Saturday,Driver 029,Completed,1,0,,17:38:13,17.64,
+Route-00565,2026-08-29,Saturday,Driver 026,Completed,1,0,,18:25:25,18.42,
+Route-00566,2026-08-29,Saturday,Driver 015,Completed,1,0,,17:38:26,17.64,
+Route-00567,2026-08-29,Saturday,Driver 033,Completed,1,0,,17:38:21,17.64,
+Route-00568,2026-08-29,Saturday,Driver 019,Completed,1,0,,20:46:52,20.78,
+Route-00569,2026-08-29,Saturday,Driver 017,Completed,1,0,,14:51:56,14.87,
+Route-00570,2026-08-29,Saturday,Driver 024,Completed,1,0,,19:03:39,19.06,
+Route-00571,2026-08-29,Saturday,Driver 006,Completed,1,0,,18:26:23,18.44,
+Route-00572,2026-08-29,Saturday,Driver 004,Completed,1,0,,16:02:15,16.04,
+Route-00573,2026-08-29,Saturday,Driver 010,Completed,1,0,,17:39:33,17.66,
+Route-00574,2026-08-29,Saturday,Driver 023,Completed,1,0,,16:15:25,16.26,
+Route-00575,2026-08-29,Saturday,Driver 003,Completed,1,0,,17:39:40,17.66,
+Route-00576,2026-08-29,Saturday,Driver 021,Completed,1,0,,14:51:56,14.87,
+Route-00577,2026-08-29,Saturday,Driver 016,Completed,1,0,,17:39:41,17.66,
+Route-00578,2026-08-29,Saturday,Driver 020,Completed,1,0,,19:03:37,19.06,
+Route-00579,2026-08-29,Saturday,Driver 036,Completed,1,0,,17:39:48,17.66,
+Route-00580,2026-08-29,Saturday,Driver 013,Completed,1,0,,15:03:35,15.06,
+Route-00581,2026-08-29,Saturday,Driver 005,Completed,1,0,,20:46:51,20.78,
+Route-00582,2026-08-29,Saturday,Driver 018,Completed,1,0,,19:09:27,19.16,
+Route-00583,2026-08-29,Saturday,Driver 008,Completed,1,0,,17:39:56,17.67,
+Route-00584,2026-08-29,Saturday,Driver 027,Completed,1,0,,15:53:55,15.9,
+Route-00585,2026-08-29,Saturday,Driver 030,Completed,1,0,,17:52:57,17.88,
+Route-00586,2026-08-30,Sunday,Driver 019,MorningCheckIn,0,1,,,,
+Route-00587,2026-08-30,Sunday,Driver 007,MorningCheckIn,0,1,,,,
+Route-00588,2026-08-30,Sunday,Driver 033,Completed,1,0,,16:50:12,16.84,
+Route-00589,2026-08-30,Sunday,Driver 026,Completed,1,0,,16:04:42,16.08,
+Route-00590,2026-08-30,Sunday,Driver 035,Completed,1,0,,16:06:33,16.11,
+Route-00591,2026-08-30,Sunday,Driver 006,Completed,1,0,,18:07:03,18.12,
+Route-00592,2026-08-30,Sunday,Driver 036,Completed,1,0,,19:36:36,19.61,
+Route-00593,2026-08-30,Sunday,Driver 021,Completed,1,0,,18:07:02,18.12,
+Route-00594,2026-08-30,Sunday,Driver 010,Completed,1,0,,17:11:12,17.19,
+Route-00595,2026-08-30,Sunday,Driver 002,Completed,1,0,,18:07:00,18.12,
+Route-00596,2026-08-30,Sunday,Driver 029,Completed,1,0,,17:01:30,17.02,
+Route-00597,2026-08-30,Sunday,Driver 022,Completed,1,0,,14:55:16,14.92,
+Route-00598,2026-09-01,Tuesday,Driver 031,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00599,2026-09-01,Tuesday,Driver 023,No Show,0,1,18:05:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00600,2026-09-01,Tuesday,Driver 014,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00601,2026-09-01,Tuesday,Driver 020,No Show,0,1,18:15:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00602,2026-09-01,Tuesday,Driver 010,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00603,2026-09-01,Tuesday,Driver 035,No Show,0,1,18:47:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00604,2026-09-01,Tuesday,Driver 024,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00605,2026-09-01,Tuesday,Driver 017,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00606,2026-09-01,Tuesday,Driver 016,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00607,2026-09-01,Tuesday,Driver 006,No Show,0,1,18:08:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00608,2026-09-01,Tuesday,Driver 012,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00609,2026-09-01,Tuesday,Driver 021,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00610,2026-09-01,Tuesday,Driver 019,Completed,1,1,21:31:00,,,Completed route has no arrival time; Suspicious day: 50%+ of routes are No Show
+Route-00611,2026-09-01,Tuesday,Driver 026,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00612,2026-09-01,Tuesday,Driver 004,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00613,2026-09-01,Tuesday,Driver 029,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00614,2026-09-01,Tuesday,Driver 002,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00615,2026-09-01,Tuesday,Driver 028,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00616,2026-09-01,Tuesday,Driver 015,No Show,0,1,19:28:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00617,2026-09-01,Tuesday,Driver 018,No Show,0,1,18:12:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00618,2026-09-01,Tuesday,Driver 033,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00619,2026-09-01,Tuesday,Driver 036,No Show,0,1,18:26:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00620,2026-09-01,Tuesday,Driver 007,Completed,1,1,21:50:00,,,Completed route has no arrival time; Suspicious day: 50%+ of routes are No Show
+Route-00621,2026-09-01,Tuesday,Driver 005,No Show,0,1,18:27:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00622,2026-09-01,Tuesday,Driver 001,No Show,0,1,20:06:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00623,2026-09-01,Tuesday,Driver 025,No Show,0,1,18:39:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00624,2026-09-01,Tuesday,Driver 027,No Show,0,1,18:20:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00625,2026-09-01,Tuesday,Driver 022,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00626,2026-09-02,Wednesday,Driver 034,No Show,0,1,05:39:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00627,2026-09-02,Wednesday,Driver 006,No Show,0,1,05:15:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00628,2026-09-02,Wednesday,Driver 013,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00629,2026-09-02,Wednesday,Driver 035,Completed,1,1,07:45:00,,,Completed route has no arrival time; Suspicious day: 50%+ of routes are No Show
+Route-00630,2026-09-02,Wednesday,Driver 033,No Show,0,1,04:40:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00631,2026-09-02,Wednesday,Driver 021,No Show,0,1,06:19:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00632,2026-09-02,Wednesday,Driver 004,No Show,0,1,04:55:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00633,2026-09-02,Wednesday,Driver 017,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00634,2026-09-02,Wednesday,Driver 010,No Show,0,1,06:33:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00635,2026-09-02,Wednesday,Driver 019,No Show,0,1,06:42:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00636,2026-09-02,Wednesday,Driver 027,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00637,2026-09-02,Wednesday,Driver 037,No Show,0,1,04:36:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00638,2026-09-02,Wednesday,Driver 029,No Show,0,1,05:20:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00639,2026-09-02,Wednesday,Driver 022,No Show,0,1,05:43:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00640,2026-09-02,Wednesday,Driver 015,No Show,0,1,07:13:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00641,2026-09-02,Wednesday,Driver 025,No Show,0,1,09:24:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00642,2026-09-02,Wednesday,Driver 016,No Show,0,1,04:38:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00643,2026-09-02,Wednesday,Driver 036,No Show,0,1,03:07:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00644,2026-09-02,Wednesday,Driver 007,No Show,0,1,06:04:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00645,2026-09-02,Wednesday,Driver 002,No Show,0,1,05:01:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00646,2026-09-02,Wednesday,Driver 032,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00647,2026-09-02,Wednesday,Driver 003,No Show,0,1,04:55:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00648,2026-09-02,Wednesday,Driver 020,No Show,0,1,03:51:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00649,2026-09-02,Wednesday,Driver 005,No Show,0,1,07:28:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00650,2026-09-02,Wednesday,Driver 014,No Show,0,1,05:26:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00651,2026-09-03,Thursday,Driver 022,No Show,0,1,05:44:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00652,2026-09-03,Thursday,Driver 012,No Show,0,1,04:29:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00653,2026-09-03,Thursday,Driver 017,No Show,0,1,04:21:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00654,2026-09-03,Thursday,Driver 024,No Show,0,1,06:34:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00655,2026-09-03,Thursday,Driver 026,No Show,0,1,04:50:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00656,2026-09-03,Thursday,Driver 029,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00657,2026-09-03,Thursday,Driver 036,No Show,0,1,05:58:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00658,2026-09-03,Thursday,Driver 028,No Show,0,1,07:16:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00659,2026-09-03,Thursday,Driver 035,No Show,0,1,08:15:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00660,2026-09-03,Thursday,Driver 020,No Show,0,1,04:50:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00661,2026-09-03,Thursday,Driver 010,No Show,0,1,06:13:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00662,2026-09-03,Thursday,Driver 018,No Show,0,1,06:12:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00663,2026-09-03,Thursday,Driver 005,No Show,0,1,06:05:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00664,2026-09-03,Thursday,Driver 003,No Show,0,1,04:46:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00665,2026-09-03,Thursday,Driver 014,No Show,0,1,05:22:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00666,2026-09-03,Thursday,Driver 019,No Show,0,1,04:08:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00667,2026-09-03,Thursday,Driver 016,No Show,0,1,04:39:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00668,2026-09-03,Thursday,Driver 004,No Show,0,1,03:55:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00669,2026-09-03,Thursday,Driver 021,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00670,2026-09-03,Thursday,Driver 008,No Show,0,1,03:58:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00671,2026-09-03,Thursday,Driver 023,No Show,0,1,05:58:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00672,2026-09-03,Thursday,Driver 015,No Show,0,1,04:52:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00673,2026-09-03,Thursday,Driver 002,No Show,0,1,05:14:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00674,2026-09-03,Thursday,Driver 033,No Show,0,1,04:52:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00675,2026-09-03,Thursday,Driver 037,No Show,0,1,04:36:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00676,2026-09-03,Thursday,Driver 027,No Show,0,1,04:13:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00677,2026-09-03,Thursday,Driver 013,No Show,0,1,04:10:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00678,2026-09-03,Thursday,Driver 030,No Show,0,1,04:33:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00679,2026-09-03,Thursday,Driver 006,No Show,0,1,05:08:00,,,Suspicious day: 50%+ of routes are No Show
+Route-00680,2026-09-04,Friday,Driver 008,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00681,2026-09-04,Friday,Driver 033,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00682,2026-09-04,Friday,Driver 009,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00683,2026-09-04,Friday,Driver 032,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00684,2026-09-04,Friday,Driver 026,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00685,2026-09-04,Friday,Driver 010,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00686,2026-09-04,Friday,Driver 002,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00687,2026-09-04,Friday,Driver 024,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00688,2026-09-04,Friday,Driver 028,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00689,2026-09-04,Friday,Driver 006,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00690,2026-09-04,Friday,Driver 020,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00691,2026-09-04,Friday,Driver 017,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00692,2026-09-04,Friday,Driver 015,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00693,2026-09-04,Friday,Driver 036,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00694,2026-09-04,Friday,Driver 004,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00695,2026-09-04,Friday,Driver 005,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00696,2026-09-04,Friday,Driver 029,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00697,2026-09-04,Friday,Driver 014,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00698,2026-09-04,Friday,Driver 022,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00699,2026-09-04,Friday,Driver 034,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00700,2026-09-04,Friday,Driver 018,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00701,2026-09-04,Friday,Driver 035,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00702,2026-09-04,Friday,Driver 016,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00703,2026-09-04,Friday,Driver 021,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00704,2026-09-04,Friday,Driver 012,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00705,2026-09-04,Friday,Driver 007,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00706,2026-09-04,Friday,Driver 003,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00707,2026-09-04,Friday,Driver 027,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00708,2026-09-04,Friday,Driver 030,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00709,2026-09-04,Friday,Driver 019,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00710,2026-09-06,Sunday,Driver 006,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00711,2026-09-06,Sunday,Driver 005,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00712,2026-09-06,Sunday,Driver 007,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00713,2026-09-06,Sunday,Driver 029,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00714,2026-09-06,Sunday,Driver 036,Completed,1,,,,,Completed route has no arrival time; Suspicious day: 50%+ of routes are No Show
+Route-00715,2026-09-06,Sunday,Driver 033,Completed,1,,,,,Completed route has no arrival time; Suspicious day: 50%+ of routes are No Show
+Route-00716,2026-09-06,Sunday,Driver 009,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00717,2026-09-06,Sunday,Driver 022,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00718,2026-09-06,Sunday,Driver 021,Completed,1,,,,,Completed route has no arrival time; Suspicious day: 50%+ of routes are No Show
+Route-00719,2026-09-06,Sunday,Driver 010,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00720,2026-09-06,Sunday,Driver 014,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00721,2026-09-06,Sunday,Driver 020,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00722,2026-09-06,Sunday,Driver 002,No Show,0,,,,,Suspicious day: 50%+ of routes are No Show
+Route-00723,2026-09-14,Monday,Driver 013,Completed,1,0,,16:27:52,16.46,
+Route-00724,2026-09-14,Monday,Driver 006,Completed,1,0,,19:40:43,19.68,
+Route-00725,2026-09-14,Monday,Driver 002,Completed,1,0,,19:09:58,19.17,
+Route-00726,2026-09-14,Monday,Driver 003,Completed,1,0,,16:06:38,16.11,
+Route-00727,2026-09-14,Monday,Driver 025,Completed,1,0,,18:17:39,18.29,
+Route-00728,2026-09-14,Monday,Driver 010,Completed,1,0,,17:42:43,17.71,
+Route-00729,2026-09-14,Monday,Driver 033,Completed,1,0,,18:36:39,18.61,
+Route-00730,2026-09-14,Monday,Driver 008,Completed,1,0,,19:30:12,19.5,
+Route-00731,2026-09-14,Monday,Driver 023,Completed,1,0,,17:42:53,17.71,
+Route-00732,2026-09-14,Monday,Driver 027,Completed,1,0,,17:43:02,17.72,
+Route-00733,2026-09-14,Monday,Driver 016,Completed,1,0,,19:30:20,19.51,
+Route-00734,2026-09-14,Monday,Driver 019,Completed,1,0,,20:32:32,20.54,
+Route-00735,2026-09-14,Monday,Driver 031,Completed,1,0,,20:32:32,20.54,
+Route-00736,2026-09-14,Monday,Driver 017,Completed,1,0,,16:28:28,16.47,
+Route-00737,2026-09-14,Monday,Driver 005,MorningCheckIn,0,1,,,,
+Route-00738,2026-09-14,Monday,Driver 037,Completed,1,0,,16:07:29,16.12,
+Route-00739,2026-09-14,Monday,Driver 036,Completed,1,0,,17:43:22,17.72,
+Route-00740,2026-09-14,Monday,Driver 012,Completed,1,0,,19:10:12,19.17,
+Route-00741,2026-09-14,Monday,Driver 026,Completed,1,0,,17:43:31,17.73,
+Route-00742,2026-09-14,Monday,Driver 004,Completed,1,0,,21:46:10,21.77,
+Route-00743,2026-09-14,Monday,Driver 007,Completed,1,0,,17:43:39,17.73,
+Route-00744,2026-09-14,Monday,Driver 020,Completed,1,0,,20:32:32,20.54,
+Route-00745,2026-09-14,Monday,Driver 015,Completed,1,0,,19:10:23,19.17,
+Route-00746,2026-09-14,Monday,Driver 022,Completed,1,0,,20:32:32,20.54,
+Route-00747,2026-09-14,Monday,Driver 014,Completed,1,0,,19:53:30,19.89,
+Route-00748,2026-09-14,Monday,Driver 029,Completed,1,0,,17:43:53,17.73,
+Route-00749,2026-09-15,Tuesday,Driver 004,Completed,1,0,,19:01:05,19.02,
+Route-00750,2026-09-15,Tuesday,Driver 010,Completed,1,0,,18:05:31,18.09,
+Route-00751,2026-09-15,Tuesday,Driver 037,Completed,1,0,,16:44:32,16.74,
+Route-00752,2026-09-15,Tuesday,Driver 027,Completed,1,0,,16:45:56,16.77,
+Route-00753,2026-09-15,Tuesday,Driver 009,Completed,1,0,,16:57:23,16.96,
+Route-00754,2026-09-15,Tuesday,Driver 026,Completed,1,0,,18:48:56,18.82,
+Route-00755,2026-09-15,Tuesday,Driver 012,Completed,1,0,,18:05:36,18.09,
+Route-00756,2026-09-15,Tuesday,Driver 006,Completed,1,0,,19:27:47,19.46,
+Route-00757,2026-09-15,Tuesday,Driver 002,Completed,1,0,,20:30:44,20.51,
+Route-00758,2026-09-15,Tuesday,Driver 019,Completed,1,1,,21:19:42,21.33,
+Route-00759,2026-09-15,Tuesday,Driver 024,Completed,1,0,,18:38:49,18.65,
+Route-00760,2026-09-15,Tuesday,Driver 015,Completed,1,0,,20:18:56,20.32,
+Route-00761,2026-09-15,Tuesday,Driver 005,Completed,1,0,,17:51:22,17.86,
+Route-00762,2026-09-15,Tuesday,Driver 013,Completed,1,0,,16:15:41,16.26,
+Route-00763,2026-09-15,Tuesday,Driver 022,Completed,1,0,,19:12:15,19.2,
+Route-00764,2026-09-15,Tuesday,Driver 008,Completed,1,1,,21:19:43,21.33,
+Route-00765,2026-09-15,Tuesday,Driver 017,Completed,1,0,,15:10:19,15.17,
+Route-00766,2026-09-15,Tuesday,Driver 020,Completed,1,0,,20:40:57,20.68,
+Route-00767,2026-09-15,Tuesday,Driver 025,Completed,1,0,,18:22:55,18.38,
+Route-00768,2026-09-15,Tuesday,Driver 029,Completed,1,0,,17:52:24,17.87,
+Route-00769,2026-09-15,Tuesday,Driver 021,Completed,1,0,,16:57:19,16.96,
+Route-00770,2026-09-15,Tuesday,Driver 014,Completed,1,0,,18:18:58,18.32,
+Route-00771,2026-09-15,Tuesday,Driver 023,Completed,1,0,,17:44:19,17.74,
+Route-00772,2026-09-15,Tuesday,Driver 033,Completed,1,0,,15:10:27,15.17,
+Route-00773,2026-09-15,Tuesday,Driver 036,Completed,1,0,,18:50:08,18.84,
+Route-00774,2026-09-15,Tuesday,Driver 007,Completed,1,0,,16:15:31,16.26,
+Route-00775,2026-09-16,Wednesday,Driver 007,Completed,1,0,,19:28:13,19.47,
+Route-00776,2026-09-16,Wednesday,Driver 033,Completed,1,0,,16:20:55,16.35,
+Route-00777,2026-09-16,Wednesday,Driver 029,Completed,1,0,,16:01:25,16.02,
+Route-00778,2026-09-16,Wednesday,Driver 028,Completed,1,0,,18:39:27,18.66,
+Route-00779,2026-09-16,Wednesday,Driver 020,Completed,1,0,,20:26:04,20.43,
+Route-00780,2026-09-16,Wednesday,Driver 015,Completed,1,0,,19:10:01,19.17,
+Route-00781,2026-09-16,Wednesday,Driver 006,Completed,1,0,,18:39:27,18.66,
+Route-00782,2026-09-16,Wednesday,Driver 004,Completed,1,0,,21:39:51,21.66,
+Route-00783,2026-09-16,Wednesday,Driver 037,Completed,1,0,,19:28:04,19.47,
+Route-00784,2026-09-16,Wednesday,Driver 010,Completed,1,0,,18:42:27,18.71,
+Route-00785,2026-09-16,Wednesday,Driver 008,Completed,1,0,,20:13:25,20.22,
+Route-00786,2026-09-16,Wednesday,Driver 021,Completed,1,0,,19:02:36,19.04,
+Route-00787,2026-09-16,Wednesday,Driver 031,Completed,1,0,,18:39:27,18.66,
+Route-00788,2026-09-16,Wednesday,Driver 003,Completed,1,0,,20:03:25,20.06,
+Route-00789,2026-09-16,Wednesday,Driver 017,Completed,1,0,,15:57:08,15.95,
+Route-00790,2026-09-16,Wednesday,Driver 023,Completed,1,0,,19:31:37,19.53,
+Route-00791,2026-09-16,Wednesday,Driver 022,Completed,1,0,,18:39:27,18.66,
+Route-00792,2026-09-16,Wednesday,Driver 036,Completed,1,0,,19:33:52,19.56,
+Route-00793,2026-09-16,Wednesday,Driver 019,Completed,1,0,,21:39:51,21.66,
+Route-00794,2026-09-16,Wednesday,Driver 027,Completed,1,0,,18:39:27,18.66,
+Route-00795,2026-09-16,Wednesday,Driver 026,Completed,1,0,,18:39:27,18.66,
+Route-00796,2026-09-16,Wednesday,Driver 002,Completed,1,0,,18:39:27,18.66,
+Route-00797,2026-09-16,Wednesday,Driver 012,Completed,1,0,,18:39:27,18.66,
+Route-00798,2026-09-16,Wednesday,Driver 014,Completed,1,0,,21:39:51,21.66,
+Route-00799,2026-09-16,Wednesday,Driver 005,Completed,1,0,,15:56:58,15.95,
+Route-00800,2026-09-16,Wednesday,Driver 011,Completed,1,1,,20:13:25,20.22,
+Route-00801,2026-09-17,Thursday,Driver 025,Completed,1,0,,14:03:18,14.06,
+Route-00802,2026-09-17,Thursday,Driver 014,Completed,1,0,,14:03:18,14.06,
+Route-00803,2026-09-17,Thursday,Driver 010,Completed,1,1,,14:03:18,14.06,
+Route-00804,2026-09-17,Thursday,Driver 017,Completed,1,0,,14:03:18,14.06,
+Route-00805,2026-09-17,Thursday,Driver 012,Completed,1,0,,14:03:18,14.06,
+Route-00806,2026-09-17,Thursday,Driver 029,Completed,1,0,,14:03:18,14.06,
+Route-00807,2026-09-17,Thursday,Driver 027,Completed,1,0,,14:03:18,14.06,
+Route-00808,2026-09-17,Thursday,Driver 022,Completed,1,0,,14:03:18,14.06,
+Route-00809,2026-09-17,Thursday,Driver 009,Completed,1,0,,14:03:18,14.06,
+Route-00810,2026-09-17,Thursday,Driver 036,Completed,1,0,,14:03:18,14.06,
+Route-00811,2026-09-17,Thursday,Driver 015,Completed,1,0,,14:03:18,14.06,
+Route-00812,2026-09-17,Thursday,Driver 021,Completed,1,0,,14:03:18,14.06,
+Route-00813,2026-09-17,Thursday,Driver 020,Completed,1,0,,14:03:18,14.06,
+Route-00814,2026-09-17,Thursday,Driver 026,Completed,1,0,,,,Completed route has no arrival time
+Route-00815,2026-09-17,Thursday,Driver 001,Completed,1,0,,14:03:18,14.06,
+Route-00816,2026-09-17,Thursday,Driver 019,Completed,1,1,,14:03:18,14.06,
+Route-00817,2026-09-17,Thursday,Driver 007,Completed,1,0,,14:03:18,14.06,
+Route-00818,2026-09-17,Thursday,Driver 004,Completed,1,0,,14:03:18,14.06,
+Route-00819,2026-09-17,Thursday,Driver 006,Completed,1,0,,,,Completed route has no arrival time
+Route-00820,2026-09-17,Thursday,Driver 028,Completed,1,0,,14:03:18,14.06,
+Route-00821,2026-09-17,Thursday,Driver 005,Completed,1,1,,14:03:18,14.06,
+Route-00822,2026-09-17,Thursday,Driver 002,Completed,1,0,,14:03:18,14.06,
+Route-00823,2026-09-17,Thursday,Driver 033,Completed,1,0,,14:03:18,14.06,
+Route-00824,2026-09-17,Thursday,Driver 016,Completed,1,0,,14:03:18,14.06,
+Route-00825,2026-09-17,Thursday,Driver 032,Completed,1,0,,14:03:18,14.06,
+Route-00826,2026-09-18,Friday,Driver 026,Completed,1,0,,20:42:15,20.7,
+Route-00827,2026-09-18,Friday,Driver 004,Completed,1,0,,20:03:59,20.07,
+Route-00828,2026-09-18,Friday,Driver 024,MorningCheckIn,0,1,,,,
+Route-00829,2026-09-18,Friday,Driver 013,Completed,1,0,,18:24:09,18.4,
+Route-00830,2026-09-18,Friday,Driver 016,Completed,1,0,,20:04:07,20.07,
+Route-00831,2026-09-18,Friday,Driver 028,Completed,1,0,,17:15:01,17.25,
+Route-00832,2026-09-18,Friday,Driver 022,Completed,1,0,,18:24:22,18.41,
+Route-00833,2026-09-18,Friday,Driver 031,Completed,1,0,,20:04:14,20.07,
+Route-00834,2026-09-18,Friday,Driver 017,Completed,1,0,,18:23:44,18.4,
+Route-00835,2026-09-18,Friday,Driver 003,Completed,1,0,,20:04:20,20.07,
+Route-00836,2026-09-18,Friday,Driver 020,Completed,1,0,,20:04:26,20.07,
+Route-00837,2026-09-18,Friday,Driver 010,Completed,1,0,,18:24:33,18.41,
+Route-00838,2026-09-18,Friday,Driver 029,Completed,1,0,,17:15:10,17.25,
+Route-00839,2026-09-18,Friday,Driver 014,Completed,1,0,,20:28:48,20.48,
+Route-00840,2026-09-18,Friday,Driver 019,Completed,1,0,,20:04:34,20.08,
+Route-00841,2026-09-18,Friday,Driver 002,Completed,1,0,,20:04:39,20.08,
+Route-00842,2026-09-18,Friday,Driver 005,Completed,1,0,,20:04:47,20.08,
+Route-00843,2026-09-18,Friday,Driver 037,Completed,1,0,,21:12:46,21.21,
+Route-00844,2026-09-18,Friday,Driver 015,Completed,1,0,,17:15:08,17.25,
+Route-00845,2026-09-18,Friday,Driver 007,Completed,1,0,,20:04:59,20.08,
+Route-00846,2026-09-18,Friday,Driver 023,Completed,1,0,,20:05:05,20.08,
+Route-00847,2026-09-18,Friday,Driver 025,Completed,1,0,,17:14:55,17.25,
+Route-00848,2026-09-18,Friday,Driver 021,Completed,1,0,,15:39:13,15.65,
+Route-00849,2026-09-18,Friday,Driver 012,Completed,1,0,,20:05:12,20.09,
+Route-00850,2026-09-18,Friday,Driver 006,Completed,1,0,,20:05:12,20.09,
+Route-00851,2026-09-18,Friday,Driver 027,Completed,1,0,,18:25:04,18.42,
+Route-00852,2026-09-19,Saturday,Driver 031,MorningCheckIn,0,1,,,,
+Route-00853,2026-09-19,Saturday,Driver 025,Completed,1,0,,16:33:44,16.56,
+Route-00854,2026-09-19,Saturday,Driver 028,Completed,1,0,,16:54:27,16.91,
+Route-00855,2026-09-19,Saturday,Driver 006,Completed,1,0,,18:46:01,18.77,
+Route-00856,2026-09-19,Saturday,Driver 022,Completed,1,0,,18:13:27,18.22,
+Route-00857,2026-09-19,Saturday,Driver 017,Completed,1,0,,18:46:02,18.77,
+Route-00858,2026-09-19,Saturday,Driver 027,Completed,1,0,,18:46:57,18.78,
+Route-00859,2026-09-19,Saturday,Driver 004,Completed,1,0,,20:03:17,20.05,
+Route-00860,2026-09-19,Saturday,Driver 020,Completed,1,0,,19:09:35,19.16,
+Route-00861,2026-09-19,Saturday,Driver 003,Completed,1,0,,18:47:04,18.78,
+Route-00862,2026-09-19,Saturday,Driver 014,Completed,1,0,,19:30:33,19.51,
+Route-00863,2026-09-19,Saturday,Driver 012,Completed,1,0,,18:47:22,18.79,
+Route-00864,2026-09-19,Saturday,Driver 015,MorningCheckIn,0,1,,,,
+Route-00865,2026-09-19,Saturday,Driver 021,Completed,1,0,,17:37:58,17.63,
+Route-00866,2026-09-19,Saturday,Driver 002,Completed,1,0,,19:08:41,19.14,
+Route-00867,2026-09-19,Saturday,Driver 029,Completed,1,0,,18:05:25,18.09,
+Route-00868,2026-09-19,Saturday,Driver 026,Completed,1,0,,17:06:51,17.11,
+Route-00869,2026-09-19,Saturday,Driver 010,Completed,1,0,,18:16:19,18.27,
+Route-00870,2026-09-19,Saturday,Driver 007,Completed,1,0,,18:05:27,18.09,
+Route-00871,2026-09-19,Saturday,Driver 013,Completed,1,0,,15:15:41,15.26,
+Route-00872,2026-09-19,Saturday,Driver 024,Completed,1,0,,16:56:12,16.94,
+Route-00873,2026-09-19,Saturday,Driver 023,Completed,1,0,,15:13:54,15.23,
+Route-00874,2026-09-19,Saturday,Driver 008,Completed,1,0,,18:05:29,18.09,
+Route-00875,2026-09-19,Saturday,Driver 005,Completed,1,0,,18:06:16,18.1,
+Route-00876,2026-09-19,Saturday,Driver 019,Completed,1,0,,18:16:57,18.28,
+Route-00877,2026-09-20,Sunday,Driver 007,Completed,1,0,,17:47:47,17.8,
+Route-00878,2026-09-20,Sunday,Driver 021,Completed,1,0,,16:33:18,16.55,
+Route-00879,2026-09-20,Sunday,Driver 014,Completed,1,0,,18:22:45,18.38,
+Route-00880,2026-09-20,Sunday,Driver 026,Completed,1,0,,16:41:31,16.69,
+Route-00881,2026-09-20,Sunday,Driver 023,Completed,1,1,,17:28:29,17.47,
+Route-00882,2026-09-20,Sunday,Driver 002,Completed,1,1,,18:40:23,18.67,
+Route-00883,2026-09-20,Sunday,Driver 010,Completed,1,1,,18:03:26,18.06,
+Route-00884,2026-09-20,Sunday,Driver 020,Completed,1,0,,17:03:32,17.06,
+Route-00885,2026-09-20,Sunday,Driver 022,Completed,1,0,,16:45:52,16.76,
+Route-00886,2026-09-20,Sunday,Driver 019,Completed,1,0,,18:34:31,18.58,
+Route-00887,2026-09-20,Sunday,Driver 005,Completed,1,1,,18:56:58,18.95,
+Route-00888,2026-09-20,Sunday,Driver 006,Completed,1,0,,18:07:03,18.12,
+Route-00889,2026-09-21,Monday,Driver 002,Completed,1,0,,22:17:13,22.29,
+Route-00890,2026-09-21,Monday,Driver 007,Completed,1,0,,18:23:44,18.4,
+Route-00891,2026-09-21,Monday,Driver 023,Completed,1,0,,19:22:57,19.38,
+Route-00892,2026-09-21,Monday,Driver 026,Completed,1,0,,18:15:34,18.26,
+Route-00893,2026-09-21,Monday,Driver 014,Completed,1,0,,15:36:29,15.61,
+Route-00894,2026-09-21,Monday,Driver 019,Completed,1,0,,22:17:12,22.29,
+Route-00895,2026-09-21,Monday,Driver 003,Completed,1,0,,17:15:40,17.26,
+Route-00896,2026-09-21,Monday,Driver 011,Completed,1,0,,20:24:16,20.4,
+Route-00897,2026-09-21,Monday,Driver 017,Completed,1,0,,16:24:27,16.41,
+Route-00898,2026-09-21,Monday,Driver 005,Completed,1,0,,17:12:55,17.22,
+Route-00899,2026-09-21,Monday,Driver 022,Completed,1,0,,19:31:50,19.53,
+Route-00900,2026-09-21,Monday,Driver 013,Completed,1,0,,14:51:43,14.86,
+Route-00901,2026-09-21,Monday,Driver 031,Completed,1,0,,17:17:00,17.28,
+Route-00902,2026-09-21,Monday,Driver 010,Completed,1,0,,17:42:58,17.72,
+Route-00903,2026-09-21,Monday,Driver 028,Completed,1,0,,18:15:37,18.26,
+Route-00904,2026-09-21,Monday,Driver 008,Completed,1,0,,18:16:05,18.27,
+Route-00905,2026-09-21,Monday,Driver 027,Completed,1,0,,17:16:56,17.28,
+Route-00906,2026-09-21,Monday,Driver 012,Completed,1,0,,18:16:15,18.27,
+Route-00907,2026-09-21,Monday,Driver 029,Completed,1,0,,18:17:06,18.29,
+Route-00908,2026-09-21,Monday,Driver 020,Completed,1,0,,19:32:52,19.55,
+Route-00909,2026-09-21,Monday,Driver 004,Completed,1,0,,19:02:00,19.03,
+Route-00910,2026-09-21,Monday,Driver 015,Completed,1,0,,17:12:55,17.22,
+Route-00911,2026-09-21,Monday,Driver 025,Completed,1,0,,14:48:23,14.81,
+Route-00912,2026-09-21,Monday,Driver 021,Completed,1,0,,20:15:28,20.26,
+Route-00913,2026-09-22,Tuesday,Driver 004,Completed,1,0,,19:26:26,19.44,
+Route-00914,2026-09-22,Tuesday,Driver 020,Completed,1,0,,19:48:31,19.81,
+Route-00915,2026-09-22,Tuesday,Driver 013,Completed,1,0,,17:03:35,17.06,
+Route-00916,2026-09-22,Tuesday,Driver 025,Completed,1,0,,18:01:53,18.03,
+Route-00917,2026-09-22,Tuesday,Driver 026,Completed,1,0,,19:27:20,19.46,
+Route-00918,2026-09-22,Tuesday,Driver 002,Completed,1,0,,19:26:33,19.44,
+Route-00919,2026-09-22,Tuesday,Driver 031,Completed,1,0,,20:22:40,20.38,
+Route-00920,2026-09-22,Tuesday,Driver 007,Completed,1,0,,19:26:29,19.44,
+Route-00921,2026-09-22,Tuesday,Driver 010,Completed,1,0,,17:03:19,17.06,
+Route-00922,2026-09-22,Tuesday,Driver 028,Completed,1,0,,18:49:52,18.83,
+Route-00923,2026-09-22,Tuesday,Driver 014,Completed,1,0,,17:50:00,17.83,
+Route-00924,2026-09-22,Tuesday,Driver 005,MorningCheckIn,0,1,,,,
+Route-00925,2026-09-22,Tuesday,Driver 022,Completed,1,0,,19:26:21,19.44,
+Route-00926,2026-09-22,Tuesday,Driver 019,Completed,1,0,,18:49:55,18.83,
+Route-00927,2026-09-22,Tuesday,Driver 006,Completed,1,0,,18:49:46,18.83,
+Route-00928,2026-09-22,Tuesday,Driver 015,Completed,1,0,,19:51:34,19.86,
+Route-00929,2026-09-22,Tuesday,Driver 029,Completed,1,0,,17:03:12,17.05,
+Route-00930,2026-09-22,Tuesday,Driver 009,Completed,1,0,,19:51:31,19.86,
+Route-00931,2026-09-22,Tuesday,Driver 003,Completed,1,0,,17:03:08,17.05,
+Route-00932,2026-09-22,Tuesday,Driver 017,Completed,1,0,,17:03:29,17.06,
+Route-00933,2026-09-22,Tuesday,Driver 012,Completed,1,0,,17:49:22,17.82,
+Route-00934,2026-09-22,Tuesday,Driver 021,Completed,1,0,,17:03:24,17.06,
+Route-00935,2026-09-23,Wednesday,Driver 013,Completed,1,0,,14:29:09,14.49,
+Route-00936,2026-09-23,Wednesday,Driver 009,Completed,1,0,,18:52:35,18.88,
+Route-00937,2026-09-23,Wednesday,Driver 038,Completed,1,0,,16:17:21,16.29,
+Route-00938,2026-09-23,Wednesday,Driver 014,Completed,1,0,,16:17:26,16.29,
+Route-00939,2026-09-23,Wednesday,Driver 015,Completed,1,0,,20:55:41,20.93,
+Route-00940,2026-09-23,Wednesday,Driver 019,MorningCheckIn,0,1,,,,
+Route-00941,2026-09-23,Wednesday,Driver 022,Completed,1,0,,17:52:08,17.87,
+Route-00942,2026-09-23,Wednesday,Driver 031,Completed,1,0,,19:22:34,19.38,
+Route-00943,2026-09-23,Wednesday,Driver 002,MorningCheckIn,0,1,,,,
+Route-00944,2026-09-23,Wednesday,Driver 021,Completed,1,0,,15:41:55,15.7,
+Route-00945,2026-09-23,Wednesday,Driver 017,Completed,1,0,,15:01:13,15.02,
+Route-00946,2026-09-23,Wednesday,Driver 029,Completed,1,0,,18:56:14,18.94,
+Route-00947,2026-09-23,Wednesday,Driver 010,Completed,1,0,,18:43:29,18.72,
+Route-00948,2026-09-23,Wednesday,Driver 026,Completed,1,0,,15:39:52,15.66,
+Route-00949,2026-09-23,Wednesday,Driver 005,Completed,1,0,,20:55:21,20.92,
+Route-00950,2026-09-23,Wednesday,Driver 020,Completed,1,0,,19:53:40,19.89,
+Route-00951,2026-09-23,Wednesday,Driver 012,Completed,1,0,,17:41:54,17.7,
+Route-00952,2026-09-23,Wednesday,Driver 003,Completed,1,0,,19:32:48,19.55,
+Route-00953,2026-09-24,Thursday,Driver 022,Completed,1,0,,19:09:08,19.15,
+Route-00954,2026-09-24,Thursday,Driver 021,Completed,1,0,,20:01:49,20.03,
+Route-00955,2026-09-24,Thursday,Driver 009,Completed,1,0,,19:03:01,19.05,
+Route-00956,2026-09-24,Thursday,Driver 008,Completed,1,0,,20:20:14,20.34,
+Route-00957,2026-09-24,Thursday,Driver 017,Completed,1,0,,17:03:39,17.06,
+Route-00958,2026-09-24,Thursday,Driver 005,Completed,1,0,,19:19:33,19.33,
+Route-00959,2026-09-24,Thursday,Driver 003,Completed,1,0,,19:00:21,19.01,
+Route-00960,2026-09-24,Thursday,Driver 006,Completed,1,0,,20:04:04,20.07,
+Route-00961,2026-09-24,Thursday,Driver 014,Completed,1,0,,19:09:11,19.15,
+Route-00962,2026-09-24,Thursday,Driver 029,Completed,1,0,,18:29:30,18.49,
+Route-00963,2026-09-24,Thursday,Driver 010,Completed,1,0,,19:11:50,19.2,
+Route-00964,2026-09-24,Thursday,Driver 019,Completed,1,0,,20:50:37,20.84,
+Route-00965,2026-09-24,Thursday,Driver 026,Completed,1,0,,18:44:58,18.75,
+Route-00966,2026-09-24,Thursday,Driver 002,Completed,1,0,,21:08:22,21.14,
+Route-00967,2026-09-24,Thursday,Driver 028,Completed,1,0,,17:17:22,17.29,
+Route-00968,2026-09-24,Thursday,Driver 031,Completed,1,0,,16:55:08,16.92,
+Route-00969,2026-09-24,Thursday,Driver 038,Completed,1,0,,17:56:38,17.94,
+Route-00970,2026-09-24,Thursday,Driver 011,Completed,1,0,,15:59:53,16.0,
+Route-00971,2026-09-24,Thursday,Driver 015,Completed,1,0,,17:03:55,17.07,
+Route-00972,2026-09-24,Thursday,Driver 020,Completed,1,0,,15:51:34,15.86,
+Route-00973,2026-09-24,Thursday,Driver 023,Completed,1,0,,17:49:09,17.82,
+Route-00974,2026-09-25,Friday,Driver 004,Completed,1,0,,19:23:26,19.39,
+Route-00975,2026-09-25,Friday,Driver 014,Completed,1,0,,18:46:19,18.77,
+Route-00976,2026-09-25,Friday,Driver 010,Completed,1,0,,19:04:49,19.08,
+Route-00977,2026-09-25,Friday,Driver 006,Completed,1,0,,18:20:28,18.34,
+Route-00978,2026-09-25,Friday,Driver 022,Completed,1,0,,21:26:35,21.44,
+Route-00979,2026-09-25,Friday,Driver 005,Completed,1,0,,21:01:51,21.03,
+Route-00980,2026-09-25,Friday,Driver 038,Completed,1,0,,16:17:56,16.3,
+Route-00981,2026-09-25,Friday,Driver 021,Completed,1,0,,17:41:59,17.7,
+Route-00982,2026-09-25,Friday,Driver 024,Completed,1,0,,20:12:30,20.21,
+Route-00983,2026-09-25,Friday,Driver 028,Completed,1,0,,17:35:29,17.59,
+Route-00984,2026-09-25,Friday,Driver 012,Completed,1,0,,17:06:24,17.11,
+Route-00985,2026-09-25,Friday,Driver 031,Completed,1,0,,15:31:54,15.53,
+Route-00986,2026-09-25,Friday,Driver 017,Completed,1,0,,18:17:50,18.3,
+Route-00987,2026-09-25,Friday,Driver 008,Completed,1,0,,18:43:26,18.72,
+Route-00988,2026-09-25,Friday,Driver 020,Completed,1,0,,19:40:37,19.68,
+Route-00989,2026-09-25,Friday,Driver 003,Completed,1,0,,18:03:28,18.06,
+Route-00990,2026-09-25,Friday,Driver 002,Completed,1,0,,19:20:15,19.34,
+Route-00991,2026-09-25,Friday,Driver 007,Completed,1,0,,17:09:38,17.16,
+Route-00992,2026-09-25,Friday,Driver 029,Completed,1,0,,15:31:46,15.53,
+Route-00993,2026-09-25,Friday,Driver 023,Completed,1,0,,15:02:51,15.05,
+Route-00994,2026-09-25,Friday,Driver 026,Completed,1,0,,20:13:51,20.23,
+Route-00995,2026-09-25,Friday,Driver 027,MorningCheckIn,0,1,,,,
+Route-00996,2026-09-25,Friday,Driver 032,Completed,1,0,,16:35:00,16.58,
+Route-00997,2026-09-26,Saturday,Driver 029,Completed,1,0,,14:51:57,14.87,
+Route-00998,2026-09-26,Saturday,Driver 015,Completed,1,0,,17:52:41,17.88,
+Route-00999,2026-09-26,Saturday,Driver 027,Completed,1,0,,15:46:06,15.77,
+Route-01000,2026-09-26,Saturday,Driver 022,Completed,1,0,,19:37:24,19.62,
+Route-01001,2026-09-26,Saturday,Driver 014,Completed,1,0,,17:52:49,17.88,
+Route-01002,2026-09-26,Saturday,Driver 009,Completed,1,0,,19:06:42,19.11,
+Route-01003,2026-09-26,Saturday,Driver 007,Completed,1,0,,18:47:23,18.79,
+Route-01004,2026-09-26,Saturday,Driver 003,Completed,1,0,,18:02:42,18.05,
+Route-01005,2026-09-26,Saturday,Driver 008,Completed,1,0,,16:32:55,16.55,
+Route-01006,2026-09-26,Saturday,Driver 031,Completed,1,0,,18:21:24,18.36,
+Route-01007,2026-09-26,Saturday,Driver 037,Completed,1,0,,15:48:53,15.81,
+Route-01008,2026-09-26,Saturday,Driver 023,Completed,1,0,,20:49:21,20.82,
+Route-01009,2026-09-26,Saturday,Driver 024,Completed,1,0,,18:19:40,18.33,
+Route-01010,2026-09-26,Saturday,Driver 017,Completed,1,0,,16:54:53,16.91,
+Route-01011,2026-09-26,Saturday,Driver 021,Completed,1,0,,19:50:03,19.83,
+Route-01012,2026-09-26,Saturday,Driver 020,Completed,1,0,,17:59:26,17.99,
+Route-01013,2026-09-26,Saturday,Driver 038,Completed,1,0,,15:48:35,15.81,
+Route-01014,2026-09-26,Saturday,Driver 002,Completed,1,0,,19:43:15,19.72,
+Route-01015,2026-09-26,Saturday,Driver 005,Completed,1,0,,19:40:22,19.67,
+Route-01016,2026-09-26,Saturday,Driver 006,Completed,1,0,,19:06:44,19.11,
+Route-01017,2026-09-26,Saturday,Driver 010,Completed,1,0,,18:47:41,18.79,
+Route-01018,2026-09-26,Saturday,Driver 012,Completed,1,0,,17:52:31,17.88,
+Route-01019,2026-09-27,Sunday,Driver 015,Completed,1,0,,17:15:34,17.26,
+Route-01020,2026-09-27,Sunday,Driver 009,Completed,1,0,,15:50:41,15.84,
+Route-01021,2026-09-27,Sunday,Driver 002,Completed,1,0,,18:26:17,18.44,
+Route-01022,2026-09-27,Sunday,Driver 022,Completed,1,0,,17:16:55,17.28,
+Route-01023,2026-09-27,Sunday,Driver 028,Completed,1,0,,17:42:06,17.7,
+Route-01024,2026-09-27,Sunday,Driver 026,MorningCheckIn,0,1,,,,
+Route-01025,2026-09-27,Sunday,Driver 020,Completed,1,0,,17:43:34,17.73,
+Route-01026,2026-09-27,Sunday,Driver 029,Completed,1,0,,18:06:50,18.11,
+Route-01027,2026-09-27,Sunday,Driver 005,MorningCheckIn,0,1,,,,
+Route-01028,2026-09-27,Sunday,Driver 006,Completed,1,0,,18:34:01,18.57,
+Route-01029,2026-09-27,Sunday,Driver 014,Completed,1,0,,14:17:53,14.3,
+Route-01030,2026-09-28,Monday,Driver 007,Completed,1,0,,16:32:39,16.54,
+Route-01031,2026-09-28,Monday,Driver 021,Completed,1,0,,19:06:17,19.1,
+Route-01032,2026-09-28,Monday,Driver 038,Completed,1,0,,15:22:36,15.38,
+Route-01033,2026-09-28,Monday,Driver 008,Completed,1,0,,18:06:06,18.1,
+Route-01034,2026-09-28,Monday,Driver 026,Completed,1,0,,17:47:41,17.79,
+Route-01035,2026-09-28,Monday,Driver 011,Completed,1,0,,19:14:47,19.25,
+Route-01036,2026-09-28,Monday,Driver 031,Completed,1,0,,17:55:09,17.92,
+Route-01037,2026-09-28,Monday,Driver 028,Completed,1,0,,15:50:40,15.84,
+Route-01038,2026-09-28,Monday,Driver 019,Completed,1,0,,18:50:27,18.84,
+Route-01039,2026-09-28,Monday,Driver 005,Completed,1,0,,19:14:52,19.25,
+Route-01040,2026-09-28,Monday,Driver 010,Completed,1,0,,18:01:54,18.03,
+Route-01041,2026-09-28,Monday,Driver 017,Completed,1,0,,17:22:18,17.37,
+Route-01042,2026-09-28,Monday,Driver 020,MorningCheckIn,0,1,,,,
+Route-01043,2026-09-28,Monday,Driver 009,Completed,1,0,,16:49:28,16.82,
+Route-01044,2026-09-28,Monday,Driver 003,Completed,1,0,,18:17:28,18.29,
+Route-01045,2026-09-28,Monday,Driver 022,Completed,1,0,,18:38:21,18.64,
+Route-01046,2026-09-28,Monday,Driver 024,Completed,1,0,,18:38:22,18.64,
+Route-01047,2026-09-28,Monday,Driver 002,Completed,1,0,,18:59:10,18.99,
+Route-01048,2026-09-28,Monday,Driver 029,Completed,1,0,,15:50:34,15.84,
+Route-01049,2026-09-28,Monday,Driver 023,Completed,1,0,,17:13:47,17.23,
+Route-01050,2026-09-28,Monday,Driver 014,MorningCheckIn,0,1,,,,
+Route-01051,2026-09-29,Tuesday,Driver 021,Completed,1,0,,14:49:36,14.83,
+Route-01052,2026-09-29,Tuesday,Driver 010,Completed,1,0,,15:45:25,15.76,
+Route-01053,2026-09-29,Tuesday,Driver 029,Completed,1,0,,15:25:59,15.43,
+Route-01054,2026-09-29,Tuesday,Driver 003,Completed,1,0,,17:45:55,17.77,
+Route-01055,2026-09-29,Tuesday,Driver 008,Completed,1,0,,16:51:37,16.86,
+Route-01056,2026-09-29,Tuesday,Driver 038,Completed,1,0,,16:52:46,16.88,
+Route-01057,2026-09-29,Tuesday,Driver 014,Completed,1,0,,17:58:05,17.97,
+Route-01058,2026-09-29,Tuesday,Driver 007,Completed,1,0,,17:45:56,17.77,
+Route-01059,2026-09-29,Tuesday,Driver 031,Completed,1,0,,19:31:30,19.52,
+Route-01060,2026-09-29,Tuesday,Driver 004,Completed,1,0,,19:10:57,19.18,
+Route-01061,2026-09-29,Tuesday,Driver 015,Completed,1,0,,17:09:17,17.15,
+Route-01062,2026-09-29,Tuesday,Driver 023,Completed,1,0,,18:20:22,18.34,
+Route-01063,2026-09-29,Tuesday,Driver 006,Completed,1,0,,18:24:17,18.4,
+Route-01064,2026-09-29,Tuesday,Driver 002,Completed,1,0,,17:47:39,17.79,
+Route-01065,2026-09-29,Tuesday,Driver 017,Completed,1,0,,18:24:15,18.4,
+Route-01066,2026-09-29,Tuesday,Driver 011,Completed,1,0,,19:23:02,19.38,
+Route-01067,2026-09-29,Tuesday,Driver 026,Completed,1,0,,19:04:47,19.08,
+Route-01068,2026-09-29,Tuesday,Driver 009,Completed,1,0,,20:13:48,20.23,
+Route-01069,2026-09-29,Tuesday,Driver 019,Completed,1,0,,21:16:04,21.27,
+Route-01070,2026-09-29,Tuesday,Driver 005,MorningCheckIn,0,1,,,,
+Route-01071,2026-09-29,Tuesday,Driver 020,Completed,1,0,,21:30:46,21.51,
+Route-01072,2026-09-29,Tuesday,Driver 028,Completed,1,0,,15:56:40,15.94,
+Route-01073,2026-09-30,Wednesday,Driver 012,Completed,1,0,,18:02:36,18.04,
+,2026-09-30,Wednesday,Driver 015,Completed,1,0,,17:29:02,17.48,Missing RouteID
+,2026-09-30,Wednesday,Driver 020,Completed,1,,,21:30:14,21.5,Missing RouteID
+,2026-09-30,Wednesday,Driver 026,Completed,1,0,,17:39:13,17.65,Missing RouteID
+,2026-09-30,Wednesday,Driver 009,Completed,1,0,,18:55:04,18.92,Missing RouteID
+,2026-09-30,Wednesday,Driver 016,Completed,1,0,,19:46:07,19.77,Missing RouteID
+,2026-09-30,Wednesday,Driver 008,Completed,1,0,,20:19:59,20.33,Missing RouteID
+,2026-09-30,Wednesday,Driver 003,Completed,1,0,,18:02:03,18.03,Missing RouteID
+,2026-09-30,Wednesday,Driver 010,Completed,1,0,,19:44:30,19.74,Missing RouteID
+,2026-09-30,Wednesday,Driver 021,Completed,1,0,,14:00:00,14.0,Missing RouteID
+,2026-09-30,Wednesday,Driver 023,Completed,1,0,,15:41:28,15.69,Missing RouteID
+,2026-09-30,Wednesday,Driver 022,Completed,1,0,,17:13:48,17.23,Missing RouteID
+,2026-09-30,Wednesday,Driver 014,Completed,1,0,,18:21:52,18.36,Missing RouteID
+,2026-09-30,Wednesday,Driver 031,Completed,1,0,,20:07:09,20.12,Missing RouteID
+,2026-09-30,Wednesday,Driver 002,Completed,1,0,,19:12:54,19.21,Missing RouteID
+,2026-09-30,Wednesday,Driver 019,Completed,1,0,,21:30:12,21.5,Missing RouteID
+,2026-09-30,Wednesday,Driver 006,Completed,1,0,,17:39:00,17.65,Missing RouteID
+,2026-09-30,Wednesday,Driver 029,Completed,1,0,,15:15:40,15.26,Missing RouteID
+,2026-10-01,Thursday,Driver 023,Completed,1,0,,19:59:39,19.99,Missing RouteID
+,2026-10-01,Thursday,Driver 012,Completed,1,0,,16:37:57,16.63,Missing RouteID
+,2026-10-01,Thursday,Driver 011,Completed,1,0,,20:51:28,20.86,Missing RouteID
+,2026-10-01,Thursday,Driver 015,Completed,1,0,,15:17:22,15.29,Missing RouteID
+,2026-10-01,Thursday,Driver 019,Completed,1,0,,20:52:26,20.87,Missing RouteID
+,2026-10-01,Thursday,Driver 028,Completed,1,0,,19:54:16,19.9,Missing RouteID
+,2026-10-01,Thursday,Driver 021,Completed,1,0,,20:52:09,20.87,Missing RouteID
+,2026-10-01,Thursday,Driver 017,Completed,1,0,,16:37:57,16.63,Missing RouteID
+,2026-10-01,Thursday,Driver 038,Completed,1,0,,18:42:19,18.71,Missing RouteID
+,2026-10-01,Thursday,Driver 008,Completed,1,0,,20:52:16,20.87,Missing RouteID
+,2026-10-01,Thursday,Driver 031,Completed,1,0,,15:17:22,15.29,Missing RouteID
+,2026-10-01,Thursday,Driver 022,Completed,1,0,,14:03:37,14.06,Missing RouteID
+,2026-10-01,Thursday,Driver 010,Completed,1,0,,17:38:12,17.64,Missing RouteID
+,2026-10-01,Thursday,Driver 026,Completed,1,0,,20:08:06,20.13,Missing RouteID
+,2026-10-01,Thursday,Driver 002,Completed,1,0,,19:06:06,19.1,Missing RouteID
+,2026-10-01,Thursday,Driver 003,Completed,1,0,,18:59:51,19.0,Missing RouteID
+,2026-10-01,Thursday,Driver 016,Completed,1,0,,14:03:37,14.06,Missing RouteID
+,2026-10-01,Thursday,Driver 006,Completed,1,0,,15:17:22,15.29,Missing RouteID
+,2026-10-01,Thursday,Driver 024,Completed,1,0,,20:00:04,20.0,Missing RouteID
+,2026-10-01,Thursday,Driver 005,Completed,1,0,,19:54:16,19.9,Missing RouteID
+,2026-10-01,Thursday,Driver 007,Completed,1,0,,18:20:46,18.35,Missing RouteID
+,2026-10-02,Friday,Driver 028,Completed,1,0,,17:23:00,17.38,Missing RouteID
+,2026-10-02,Friday,Driver 026,Completed,1,0,,21:03:41,21.06,Missing RouteID
+,2026-10-02,Friday,Driver 021,Completed,1,0,,16:17:52,16.3,Missing RouteID
+,2026-10-02,Friday,Driver 009,Completed,1,0,,16:42:31,16.71,Missing RouteID
+,2026-10-02,Friday,Driver 022,Completed,1,0,,18:32:03,18.53,Missing RouteID
+,2026-10-02,Friday,Driver 006,Completed,1,0,,21:03:49,21.06,Missing RouteID
+,2026-10-02,Friday,Driver 038,Completed,1,0,,18:32:10,18.54,Missing RouteID
+,2026-10-02,Friday,Driver 015,Completed,1,0,,16:22:21,16.37,Missing RouteID
+,2026-10-02,Friday,Driver 017,Completed,1,0,,17:23:03,17.38,Missing RouteID
+,2026-10-02,Friday,Driver 023,Completed,1,0,,16:22:15,16.37,Missing RouteID
+,2026-10-02,Friday,Driver 019,Completed,1,0,,22:04:25,22.07,Missing RouteID
+,2026-10-02,Friday,Driver 016,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-02,Friday,Driver 010,Completed,1,0,,18:29:04,18.48,Missing RouteID
+,2026-10-02,Friday,Driver 011,Completed,1,0,,21:03:25,21.06,Missing RouteID
+,2026-10-02,Friday,Driver 014,Completed,1,0,,18:33:35,18.56,Missing RouteID
+,2026-10-02,Friday,Driver 005,Completed,1,0,,18:16:43,18.28,Missing RouteID
+,2026-10-02,Friday,Driver 003,Completed,1,0,,18:30:06,18.5,Missing RouteID
+,2026-10-02,Friday,Driver 008,Completed,1,0,,22:04:39,22.08,Missing RouteID
+,2026-10-02,Friday,Driver 012,Completed,1,0,,18:16:46,18.28,Missing RouteID
+,2026-10-02,Friday,Driver 002,Completed,1,0,,16:06:21,16.11,Missing RouteID
+,2026-10-03,Saturday,Driver 009,Completed,1,0,,15:30:17,15.5,Missing RouteID
+,2026-10-03,Saturday,Driver 026,Completed,1,0,,15:23:36,15.39,Missing RouteID
+,2026-10-03,Saturday,Driver 023,Completed,1,0,,15:42:59,15.72,Missing RouteID
+,2026-10-03,Saturday,Driver 006,Completed,1,0,,17:35:29,17.59,Missing RouteID
+,2026-10-03,Saturday,Driver 002,Completed,1,0,,16:48:02,16.8,Missing RouteID
+,2026-10-03,Saturday,Driver 014,Completed,1,0,,18:30:18,18.5,Missing RouteID
+,2026-10-03,Saturday,Driver 012,Completed,1,0,,18:30:19,18.51,Missing RouteID
+,2026-10-03,Saturday,Driver 017,Completed,1,0,,17:31:02,17.52,Missing RouteID
+,2026-10-03,Saturday,Driver 004,Completed,1,0,,20:14:09,20.24,Missing RouteID
+,2026-10-03,Saturday,Driver 007,Completed,1,0,,18:30:32,18.51,Missing RouteID
+,2026-10-03,Saturday,Driver 028,Completed,1,0,,18:30:28,18.51,Missing RouteID
+,2026-10-03,Saturday,Driver 010,Completed,1,0,,17:39:38,17.66,Missing RouteID
+,2026-10-03,Saturday,Driver 021,Completed,1,0,,18:30:34,18.51,Missing RouteID
+,2026-10-03,Saturday,Driver 003,Completed,1,0,,20:14:09,20.24,Missing RouteID
+,2026-10-03,Saturday,Driver 015,Completed,1,0,,18:53:39,18.89,Missing RouteID
+,2026-10-03,Saturday,Driver 022,Completed,1,0,,19:10:38,19.18,Missing RouteID
+,2026-10-03,Saturday,Driver 008,Completed,1,0,,20:14:09,20.24,Missing RouteID
+,2026-10-03,Saturday,Driver 011,Completed,1,0,,20:14:09,20.24,Missing RouteID
+,2026-10-03,Saturday,Driver 019,Completed,1,0,,20:14:09,20.24,Missing RouteID
+,2026-10-03,Saturday,Driver 016,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-04,Sunday,Driver 022,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 005,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 009,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 026,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 023,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 021,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 011,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-04,Sunday,Driver 014,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 008,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 002,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 010,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-04,Sunday,Driver 006,Completed,1,0,,14:03:40,14.06,Missing RouteID
+,2026-10-05,Monday,Driver 017,Completed,1,0,,16:01:23,16.02,Missing RouteID
+,2026-10-05,Monday,Driver 015,Completed,1,0,,15:36:26,15.61,Missing RouteID
+,2026-10-05,Monday,Driver 014,Completed,1,0,,17:00:08,17.0,Missing RouteID
+,2026-10-05,Monday,Driver 023,Completed,1,0,,16:27:56,16.47,Missing RouteID
+,2026-10-05,Monday,Driver 004,Completed,1,0,,18:01:28,18.02,Missing RouteID
+,2026-10-05,Monday,Driver 009,Completed,1,0,,17:00:10,17.0,Missing RouteID
+,2026-10-05,Monday,Driver 026,Completed,1,0,,18:36:45,18.61,Missing RouteID
+,2026-10-05,Monday,Driver 021,Completed,1,0,,18:01:42,18.03,Missing RouteID
+,2026-10-05,Monday,Driver 008,Completed,1,0,,19:32:12,19.54,Missing RouteID
+,2026-10-05,Monday,Driver 011,Completed,1,0,,20:26:38,20.44,Missing RouteID
+,2026-10-05,Monday,Driver 024,Completed,1,0,,19:10:09,19.17,Missing RouteID
+,2026-10-05,Monday,Driver 010,Completed,1,0,,18:09:15,18.15,Missing RouteID
+,2026-10-05,Monday,Driver 005,Completed,1,0,,20:26:40,20.44,Missing RouteID
+,2026-10-05,Monday,Driver 003,Completed,1,0,,20:26:41,20.44,Missing RouteID
+,2026-10-05,Monday,Driver 031,Completed,1,0,,19:09:34,19.16,Missing RouteID
+,2026-10-05,Monday,Driver 006,Completed,1,0,,20:26:42,20.45,Missing RouteID
+,2026-10-05,Monday,Driver 022,Completed,1,0,,18:43:23,18.72,Missing RouteID
+,2026-10-05,Monday,Driver 019,Completed,1,0,,21:55:40,21.93,Missing RouteID
+,2026-10-05,Monday,Driver 002,Completed,1,0,,19:26:48,19.45,Missing RouteID
+,2026-10-05,Monday,Driver 028,Completed,1,0,,19:26:44,19.45,Missing RouteID
+,2026-10-06,Tuesday,Driver 008,Completed,1,0,,20:08:29,20.14,Missing RouteID
+,2026-10-06,Tuesday,Driver 026,Completed,1,0,,18:35:37,18.59,Missing RouteID
+,2026-10-06,Tuesday,Driver 006,Completed,1,0,,19:40:06,19.67,Missing RouteID
+,2026-10-06,Tuesday,Driver 017,Completed,1,0,,17:58:43,17.98,Missing RouteID
+,2026-10-06,Tuesday,Driver 014,Completed,1,0,,17:13:19,17.22,Missing RouteID
+,2026-10-06,Tuesday,Driver 002,Completed,1,0,,20:04:11,20.07,Missing RouteID
+,2026-10-06,Tuesday,Driver 020,Completed,1,0,,20:12:41,20.21,Missing RouteID
+,2026-10-06,Tuesday,Driver 004,Completed,1,0,,18:01:53,18.03,Missing RouteID
+,2026-10-06,Tuesday,Driver 021,Completed,1,0,,18:01:46,18.03,Missing RouteID
+,2026-10-06,Tuesday,Driver 005,Completed,1,0,,19:33:45,19.56,Missing RouteID
+,2026-10-06,Tuesday,Driver 019,Completed,1,0,,19:33:45,19.56,Missing RouteID
+,2026-10-06,Tuesday,Driver 028,Completed,1,0,,19:33:45,19.56,Missing RouteID
+,2026-10-06,Tuesday,Driver 022,Completed,1,0,,18:43:54,18.73,Missing RouteID
+,2026-10-06,Tuesday,Driver 003,Completed,1,0,,19:33:45,19.56,Missing RouteID
+,2026-10-06,Tuesday,Driver 010,Completed,1,0,,19:40:04,19.67,Missing RouteID
+,2026-10-06,Tuesday,Driver 023,Completed,1,0,,18:53:48,18.9,Missing RouteID
+,2026-10-06,Tuesday,Driver 015,Completed,1,0,,14:15:30,14.26,Missing RouteID
+,2026-10-06,Tuesday,Driver 011,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-06,Tuesday,Driver 007,Completed,1,0,,18:35:42,18.59,Missing RouteID
+,2026-10-06,Tuesday,Driver 031,Completed,1,0,,15:43:03,15.72,Missing RouteID
+,2026-10-07,Wednesday,Driver 031,Completed,1,0,,18:56:22,18.94,Missing RouteID
+,2026-10-07,Wednesday,Driver 038,Completed,1,0,,15:54:22,15.91,Missing RouteID
+,2026-10-07,Wednesday,Driver 009,Completed,1,0,,16:12:01,16.2,Missing RouteID
+,2026-10-07,Wednesday,Driver 028,Completed,1,0,,16:06:34,16.11,Missing RouteID
+,2026-10-07,Wednesday,Driver 021,Completed,1,0,,16:25:36,16.43,Missing RouteID
+,2026-10-07,Wednesday,Driver 017,Completed,1,0,,17:07:36,17.13,Missing RouteID
+,2026-10-07,Wednesday,Driver 010,Completed,1,0,,17:33:29,17.56,Missing RouteID
+,2026-10-07,Wednesday,Driver 023,Completed,1,0,,18:25:57,18.43,Missing RouteID
+,2026-10-07,Wednesday,Driver 029,Completed,1,0,,18:13:26,18.22,Missing RouteID
+,2026-10-07,Wednesday,Driver 008,Completed,1,0,,19:01:20,19.02,Missing RouteID
+,2026-10-07,Wednesday,Driver 015,Completed,1,0,,18:44:10,18.74,Missing RouteID
+,2026-10-07,Wednesday,Driver 014,Completed,1,0,,18:32:29,18.54,Missing RouteID
+,2026-10-07,Wednesday,Driver 022,Completed,1,0,,19:03:47,19.06,Missing RouteID
+,2026-10-07,Wednesday,Driver 006,Completed,1,0,,19:27:25,19.46,Missing RouteID
+,2026-10-07,Wednesday,Driver 002,Completed,1,0,,19:14:22,19.24,Missing RouteID
+,2026-10-07,Wednesday,Driver 011,Completed,1,0,,19:56:43,19.95,Missing RouteID
+,2026-10-07,Wednesday,Driver 019,Completed,1,0,,20:13:19,20.22,Missing RouteID
+,2026-10-07,Wednesday,Driver 007,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-07,Wednesday,Driver 020,Completed,1,0,,20:55:41,20.93,Missing RouteID
+,2026-10-07,Wednesday,Driver 024,Completed,1,0,,21:11:22,21.19,Missing RouteID
+,2026-10-08,Thursday,Driver 039,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 026,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 006,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 029,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 031,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 011,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 009,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 010,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-08,Thursday,Driver 020,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 021,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 024,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 014,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 028,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 002,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 008,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 019,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 007,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 016,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 023,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-08,Thursday,Driver 017,Completed,1,0,,14:13:46,14.23,Missing RouteID
+,2026-10-09,Friday,Driver 008,Completed,1,0,,19:18:18,19.3,Missing RouteID
+,2026-10-09,Friday,Driver 031,Completed,1,0,,18:35:59,18.6,Missing RouteID
+,2026-10-09,Friday,Driver 014,Completed,1,0,,17:17:10,17.29,Missing RouteID
+,2026-10-09,Friday,Driver 015,Completed,1,0,,19:01:07,19.02,Missing RouteID
+,2026-10-09,Friday,Driver 038,Completed,1,,,18:18:00,18.3,Missing RouteID
+,2026-10-09,Friday,Driver 011,Completed,1,0,,21:26:41,21.44,Missing RouteID
+,2026-10-09,Friday,Driver 024,Completed,1,0,,17:56:29,17.94,Missing RouteID
+,2026-10-09,Friday,Driver 006,Completed,1,0,,19:42:03,19.7,Missing RouteID
+,2026-10-09,Friday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-09,Friday,Driver 016,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-09,Friday,Driver 026,Completed,1,0,,19:02:38,19.04,Missing RouteID
+,2026-10-09,Friday,Driver 020,Completed,1,0,,17:20:33,17.34,Missing RouteID
+,2026-10-09,Friday,Driver 017,Completed,1,0,,18:35:47,18.6,Missing RouteID
+,2026-10-09,Friday,Driver 007,Completed,1,0,,17:27:13,17.45,Missing RouteID
+,2026-10-09,Friday,Driver 029,Completed,1,0,,17:52:52,17.88,Missing RouteID
+,2026-10-09,Friday,Driver 002,Completed,1,0,,18:35:46,18.6,Missing RouteID
+,2026-10-09,Friday,Driver 039,Completed,1,0,,21:11:00,21.18,Missing RouteID
+,2026-10-09,Friday,Driver 023,Completed,1,0,,17:56:26,17.94,Missing RouteID
+,2026-10-09,Friday,Driver 010,Completed,1,0,,18:19:37,18.33,Missing RouteID
+,2026-10-09,Friday,Driver 009,Completed,1,0,,14:52:42,14.88,Missing RouteID
+,2026-10-10,Saturday,Driver 029,Completed,1,0,,17:35:14,17.59,Missing RouteID
+,2026-10-10,Saturday,Driver 007,Completed,1,0,,18:53:57,18.9,Missing RouteID
+,2026-10-10,Saturday,Driver 014,Completed,1,0,,15:57:16,15.95,Missing RouteID
+,2026-10-10,Saturday,Driver 028,Completed,1,0,,16:45:41,16.76,Missing RouteID
+,2026-10-10,Saturday,Driver 021,Completed,1,0,,18:20:11,18.34,Missing RouteID
+,2026-10-10,Saturday,Driver 010,Completed,1,0,,16:45:44,16.76,Missing RouteID
+,2026-10-10,Saturday,Driver 009,Completed,1,0,,21:00:16,21.0,Missing RouteID
+,2026-10-10,Saturday,Driver 006,Completed,1,0,,19:54:38,19.91,Missing RouteID
+,2026-10-10,Saturday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-10,Saturday,Driver 020,Completed,1,0,,17:50:16,17.84,Missing RouteID
+,2026-10-10,Saturday,Driver 015,Completed,1,0,,18:19:03,18.32,Missing RouteID
+,2026-10-10,Saturday,Driver 031,Completed,1,0,,19:40:17,19.67,Missing RouteID
+,2026-10-10,Saturday,Driver 008,Completed,1,0,,20:54:27,20.91,Missing RouteID
+,2026-10-10,Saturday,Driver 017,Completed,1,0,,16:46:35,16.78,Missing RouteID
+,2026-10-10,Saturday,Driver 002,Completed,1,0,,17:35:05,17.58,Missing RouteID
+,2026-10-10,Saturday,Driver 039,Completed,1,0,,20:54:27,20.91,Missing RouteID
+,2026-10-10,Saturday,Driver 024,Completed,1,0,,19:42:08,19.7,Missing RouteID
+,2026-10-10,Saturday,Driver 011,Completed,1,0,,16:50:15,16.84,Missing RouteID
+,2026-10-10,Saturday,Driver 003,Completed,1,0,,17:35:23,17.59,Missing RouteID
+,2026-10-10,Saturday,Driver 023,Completed,1,0,,18:20:00,18.33,Missing RouteID
+,2026-10-10,Saturday,Driver 016,Completed,1,0,,20:54:26,20.91,Missing RouteID
+,2026-10-11,Sunday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-11,Sunday,Driver 004,Completed,1,0,,19:19:36,19.33,Missing RouteID
+,2026-10-11,Sunday,Driver 015,Completed,1,0,,16:50:09,16.84,Missing RouteID
+,2026-10-11,Sunday,Driver 026,Completed,1,0,,15:32:13,15.54,Missing RouteID
+,2026-10-11,Sunday,Driver 016,Completed,1,0,,18:05:39,18.09,Missing RouteID
+,2026-10-11,Sunday,Driver 014,Completed,1,0,,17:05:46,17.1,Missing RouteID
+,2026-10-11,Sunday,Driver 028,Completed,1,0,,17:48:08,17.8,Missing RouteID
+,2026-10-11,Sunday,Driver 031,Completed,1,0,,19:18:00,19.3,Missing RouteID
+,2026-10-11,Sunday,Driver 023,Completed,1,0,,18:49:52,18.83,Missing RouteID
+,2026-10-11,Sunday,Driver 021,Completed,1,0,,16:47:03,16.78,Missing RouteID
+,2026-10-11,Sunday,Driver 011,Completed,1,0,,19:09:13,19.15,Missing RouteID
+,2026-10-11,Sunday,Driver 002,Completed,1,0,,15:06:53,15.11,Missing RouteID
+,2026-10-12,Monday,Driver 002,Completed,1,0,,18:48:45,18.81,Missing RouteID
+,2026-10-12,Monday,Driver 023,Completed,1,0,,16:42:35,16.71,Missing RouteID
+,2026-10-12,Monday,Driver 009,Completed,1,0,,17:41:59,17.7,Missing RouteID
+,2026-10-12,Monday,Driver 026,Completed,1,0,,20:36:10,20.6,Missing RouteID
+,2026-10-12,Monday,Driver 006,Completed,1,0,,19:25:58,19.43,Missing RouteID
+,2026-10-12,Monday,Driver 021,Completed,1,0,,15:20:20,15.34,Missing RouteID
+,2026-10-12,Monday,Driver 003,Completed,1,0,,16:45:58,16.77,Missing RouteID
+,2026-10-12,Monday,Driver 019,Completed,1,0,,22:25:27,22.42,Missing RouteID
+,2026-10-12,Monday,Driver 024,Completed,1,0,,18:25:40,18.43,Missing RouteID
+,2026-10-12,Monday,Driver 017,Completed,1,0,,18:09:51,18.16,Missing RouteID
+,2026-10-12,Monday,Driver 011,Completed,1,0,,16:46:10,16.77,Missing RouteID
+,2026-10-12,Monday,Driver 016,Completed,1,0,,20:36:06,20.6,Missing RouteID
+,2026-10-12,Monday,Driver 010,Completed,1,0,,16:46:18,16.77,Missing RouteID
+,2026-10-12,Monday,Driver 038,Completed,1,0,,17:25:41,17.43,Missing RouteID
+,2026-10-12,Monday,Driver 028,Completed,1,0,,19:45:07,19.75,Missing RouteID
+,2026-10-12,Monday,Driver 014,Completed,1,0,,16:46:34,16.78,Missing RouteID
+,2026-10-12,Monday,Driver 015,Completed,1,0,,18:05:22,18.09,Missing RouteID
+,2026-10-12,Monday,Driver 008,Completed,1,0,,20:35:17,20.59,Missing RouteID
+,2026-10-12,Monday,Driver 029,Completed,1,0,,17:25:38,17.43,Missing RouteID
+,2026-10-12,Monday,Driver 020,Completed,1,0,,18:57:18,18.95,Missing RouteID
+,2026-10-12,Monday,Driver 007,Completed,1,0,,16:57:09,16.95,Missing RouteID
+,2026-10-13,Tuesday,Driver 014,Completed,1,0,,17:53:11,17.89,Missing RouteID
+,2026-10-13,Tuesday,Driver 009,Completed,1,0,,17:53:15,17.89,Missing RouteID
+,2026-10-13,Tuesday,Driver 021,Completed,1,0,,19:18:11,19.3,Missing RouteID
+,2026-10-13,Tuesday,Driver 016,Completed,1,0,,20:25:49,20.43,Missing RouteID
+,2026-10-13,Tuesday,Driver 017,Completed,1,0,,17:52:57,17.88,Missing RouteID
+,2026-10-13,Tuesday,Driver 010,Completed,1,0,,17:53:29,17.89,Missing RouteID
+,2026-10-13,Tuesday,Driver 031,Completed,1,0,,19:34:04,19.57,Missing RouteID
+,2026-10-13,Tuesday,Driver 006,Completed,1,0,,18:57:41,18.96,Missing RouteID
+,2026-10-13,Tuesday,Driver 011,Completed,1,0,,20:24:33,20.41,Missing RouteID
+,2026-10-13,Tuesday,Driver 020,Completed,1,0,,19:49:28,19.82,Missing RouteID
+,2026-10-13,Tuesday,Driver 003,Completed,1,0,,19:34:04,19.57,Missing RouteID
+,2026-10-13,Tuesday,Driver 028,Completed,1,0,,19:34:04,19.57,Missing RouteID
+,2026-10-13,Tuesday,Driver 019,Completed,1,0,,19:34:04,19.57,Missing RouteID
+,2026-10-13,Tuesday,Driver 002,Completed,1,0,,17:54:27,17.91,Missing RouteID
+,2026-10-13,Tuesday,Driver 015,Completed,1,0,,20:12:08,20.2,Missing RouteID
+,2026-10-13,Tuesday,Driver 026,Completed,1,0,,18:11:08,18.19,Missing RouteID
+,2026-10-13,Tuesday,Driver 023,Completed,1,0,,17:53:18,17.89,Missing RouteID
+,2026-10-13,Tuesday,Driver 008,Completed,1,0,,19:34:04,19.57,Missing RouteID
+,2026-10-13,Tuesday,Driver 007,Completed,1,0,,19:34:04,19.57,Missing RouteID
+,2026-10-13,Tuesday,Driver 024,Completed,1,0,,18:29:51,18.5,Missing RouteID
+,2026-10-13,Tuesday,Driver 029,Completed,1,0,,21:34:58,21.58,Missing RouteID
+,2026-10-14,Wednesday,Driver 019,Completed,1,0,,18:45:52,18.76,Missing RouteID
+,2026-10-14,Wednesday,Driver 016,Completed,1,0,,18:45:46,18.76,Missing RouteID
+,2026-10-14,Wednesday,Driver 038,Completed,1,0,,17:21:09,17.35,Missing RouteID
+,2026-10-14,Wednesday,Driver 031,Completed,1,0,,19:35:03,19.58,Missing RouteID
+,2026-10-14,Wednesday,Driver 007,Completed,1,0,,18:03:57,18.07,Missing RouteID
+,2026-10-14,Wednesday,Driver 024,Completed,1,0,,19:35:09,19.59,Missing RouteID
+,2026-10-14,Wednesday,Driver 026,Completed,1,0,,19:35:03,19.58,Missing RouteID
+,2026-10-14,Wednesday,Driver 028,Completed,1,0,,18:45:58,18.77,Missing RouteID
+,2026-10-14,Wednesday,Driver 029,Completed,1,0,,18:06:51,18.11,Missing RouteID
+,2026-10-14,Wednesday,Driver 009,Completed,1,0,,17:21:27,17.36,Missing RouteID
+,2026-10-14,Wednesday,Driver 014,Completed,1,0,,18:44:54,18.75,Missing RouteID
+,2026-10-14,Wednesday,Driver 015,Completed,1,0,,19:11:48,19.2,Missing RouteID
+,2026-10-14,Wednesday,Driver 023,Completed,1,0,,18:45:07,18.75,Missing RouteID
+,2026-10-14,Wednesday,Driver 021,Completed,1,0,,17:51:55,17.87,Missing RouteID
+,2026-10-14,Wednesday,Driver 020,Completed,1,0,,16:25:27,16.42,Missing RouteID
+,2026-10-14,Wednesday,Driver 011,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-14,Wednesday,Driver 017,Completed,1,0,,18:46:08,18.77,Missing RouteID
+,2026-10-14,Wednesday,Driver 039,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-14,Wednesday,Driver 006,Completed,1,0,,20:40:34,20.68,Missing RouteID
+,2026-10-14,Wednesday,Driver 002,Completed,1,0,,18:45:01,18.75,Missing RouteID
+,2026-10-14,Wednesday,Driver 010,Completed,1,0,,18:45:18,18.75,Missing RouteID
+,2026-10-15,Thursday,Driver 002,Completed,1,0,,18:30:42,18.51,Missing RouteID
+,2026-10-15,Thursday,Driver 028,Completed,1,0,,18:39:55,18.67,Missing RouteID
+,2026-10-15,Thursday,Driver 020,Completed,1,0,,20:58:21,20.97,Missing RouteID
+,2026-10-15,Thursday,Driver 038,Completed,1,0,,17:43:27,17.72,Missing RouteID
+,2026-10-15,Thursday,Driver 006,Completed,1,0,,20:29:58,20.5,Missing RouteID
+,2026-10-15,Thursday,Driver 015,Completed,1,0,,19:29:10,19.49,Missing RouteID
+,2026-10-15,Thursday,Driver 010,Completed,1,0,,15:11:12,15.19,Missing RouteID
+,2026-10-15,Thursday,Driver 029,Completed,1,0,,18:12:22,18.21,Missing RouteID
+,2026-10-15,Thursday,Driver 017,Completed,1,0,,17:46:53,17.78,Missing RouteID
+,2026-10-15,Thursday,Driver 023,Completed,1,0,,16:58:29,16.97,Missing RouteID
+,2026-10-15,Thursday,Driver 003,Completed,1,0,,19:09:13,19.15,Missing RouteID
+,2026-10-15,Thursday,Driver 011,Completed,1,0,,00:14:12,0.24,Missing RouteID
+,2026-10-15,Thursday,Driver 024,Completed,1,0,,20:13:57,20.23,Missing RouteID
+,2026-10-15,Thursday,Driver 014,Completed,1,0,,16:19:06,16.32,Missing RouteID
+,2026-10-15,Thursday,Driver 021,Completed,1,0,,18:13:03,18.22,Missing RouteID
+,2026-10-15,Thursday,Driver 007,Completed,1,0,,19:09:13,19.15,Missing RouteID
+,2026-10-15,Thursday,Driver 016,Completed,1,0,,21:23:11,21.39,Missing RouteID
+,2026-10-15,Thursday,Driver 009,Completed,1,0,,18:02:01,18.03,Missing RouteID
+,2026-10-15,Thursday,Driver 019,Completed,1,0,,19:09:13,19.15,Missing RouteID
+,2026-10-15,Thursday,Driver 031,Completed,1,0,,16:50:48,16.85,Missing RouteID
+,2026-10-15,Thursday,Driver 026,Completed,1,0,,21:23:11,21.39,Missing RouteID
+,2026-10-16,Friday,Driver 003,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 021,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 023,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 026,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 009,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 007,Completed,1,1,21:30:00,,,Completed route has no arrival time; Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 010,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 011,No Show,0,1,19:40:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 014,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 019,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 029,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 024,No Show,0,1,20:30:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 038,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 020,No Show,0,,,,,Unreadable MorningCheckIn value; Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 016,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 004,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 002,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 017,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 031,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 039,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-16,Friday,Driver 015,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-17,Saturday,Driver 023,Completed,1,0,,14:56:57,14.95,Missing RouteID
+,2026-10-17,Saturday,Driver 009,Completed,1,0,,15:15:01,15.25,Missing RouteID
+,2026-10-17,Saturday,Driver 021,Completed,1,0,,15:44:21,15.74,Missing RouteID
+,2026-10-17,Saturday,Driver 004,Completed,1,0,,16:04:54,16.08,Missing RouteID
+,2026-10-17,Saturday,Driver 029,Completed,1,0,,15:44:27,15.74,Missing RouteID
+,2026-10-17,Saturday,Driver 010,Completed,1,0,,17:00:17,17.0,Missing RouteID
+,2026-10-17,Saturday,Driver 015,Completed,1,0,,16:35:54,16.6,Missing RouteID
+,2026-10-17,Saturday,Driver 026,Completed,1,0,,17:00:14,17.0,Missing RouteID
+,2026-10-17,Saturday,Driver 024,Completed,1,0,,16:58:33,16.98,Missing RouteID
+,2026-10-17,Saturday,Driver 017,Completed,1,0,,17:33:43,17.56,Missing RouteID
+,2026-10-17,Saturday,Driver 038,Completed,1,0,,19:15:14,19.25,Missing RouteID
+,2026-10-17,Saturday,Driver 014,Completed,1,0,,18:56:25,18.94,Missing RouteID
+,2026-10-17,Saturday,Driver 002,Completed,1,0,,18:26:11,18.44,Missing RouteID
+,2026-10-17,Saturday,Driver 031,Completed,1,0,,19:56:43,19.95,Missing RouteID
+,2026-10-17,Saturday,Driver 020,Completed,1,0,,20:31:36,20.53,Missing RouteID
+,2026-10-17,Saturday,Driver 011,Completed,1,0,,19:53:04,19.88,Missing RouteID
+,2026-10-17,Saturday,Driver 003,Completed,1,0,,21:23:04,21.38,Missing RouteID
+,2026-10-17,Saturday,Driver 006,Completed,1,0,,21:00:33,21.01,Missing RouteID
+,2026-10-17,Saturday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-17,Saturday,Driver 008,Completed,1,0,,21:00:40,21.01,Missing RouteID
+,2026-10-17,Saturday,Driver 039,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-18,Sunday,Driver 023,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 006,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 026,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 010,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 008,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 003,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-18,Sunday,Driver 028,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 011,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-18,Sunday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-18,Sunday,Driver 007,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 021,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-18,Sunday,Driver 002,Completed,1,0,,14:01:34,14.03,Missing RouteID
+,2026-10-19,Monday,Driver 023,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 002,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 026,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 011,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 014,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 008,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 017,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 024,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 015,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 039,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 031,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 007,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 010,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 016,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 004,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 020,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 021,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 029,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 003,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 019,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-19,Monday,Driver 028,No Show,0,,,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-20,Tuesday,Driver 016,Completed,1,0,,19:24:12,19.4,Missing RouteID
+,2026-10-20,Tuesday,Driver 020,Completed,1,0,,19:32:16,19.54,Missing RouteID
+,2026-10-20,Tuesday,Driver 014,Completed,1,0,,18:06:36,18.11,Missing RouteID
+,2026-10-20,Tuesday,Driver 031,Completed,1,0,,18:55:17,18.92,Missing RouteID
+,2026-10-20,Tuesday,Driver 017,Completed,1,0,,17:14:27,17.24,Missing RouteID
+,2026-10-20,Tuesday,Driver 015,Completed,1,0,,18:13:34,18.23,Missing RouteID
+,2026-10-20,Tuesday,Driver 006,Completed,1,0,,18:55:56,18.93,Missing RouteID
+,2026-10-20,Tuesday,Driver 019,Completed,1,0,,18:23:59,18.4,Missing RouteID
+,2026-10-20,Tuesday,Driver 010,Completed,1,0,,15:39:41,15.66,Missing RouteID
+,2026-10-20,Tuesday,Driver 028,Completed,1,0,,20:32:31,20.54,Missing RouteID
+,2026-10-20,Tuesday,Driver 004,Completed,1,0,,19:25:29,19.42,Missing RouteID
+,2026-10-20,Tuesday,Driver 024,Completed,1,0,,20:32:36,20.54,Missing RouteID
+,2026-10-20,Tuesday,Driver 003,Completed,1,0,,20:33:47,20.56,Missing RouteID
+,2026-10-20,Tuesday,Driver 021,Completed,1,0,,14:44:17,14.74,Missing RouteID
+,2026-10-20,Tuesday,Driver 002,Completed,1,0,,19:26:09,19.44,Missing RouteID
+,2026-10-20,Tuesday,Driver 007,Completed,1,0,,14:44:11,14.74,Missing RouteID
+,2026-10-20,Tuesday,Driver 011,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-20,Tuesday,Driver 029,Completed,1,0,,18:06:30,18.11,Missing RouteID
+,2026-10-20,Tuesday,Driver 008,Completed,1,0,,18:09:07,18.15,Missing RouteID
+,2026-10-20,Tuesday,Driver 023,Completed,1,0,,16:43:02,16.72,Missing RouteID
+,2026-10-20,Tuesday,Driver 039,Completed,1,0,,18:24:16,18.4,Missing RouteID
+,2026-10-21,Wednesday,Driver 002,No Show,0,1,17:30:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 021,No Show,0,1,18:09:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 031,No Show,0,1,16:41:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 024,No Show,0,1,17:44:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 014,No Show,0,1,18:33:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 038,No Show,0,1,17:25:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 007,No Show,0,1,16:42:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 017,No Show,0,1,18:19:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 023,No Show,0,1,17:20:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 010,No Show,0,1,17:44:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 008,No Show,0,1,21:24:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 020,No Show,0,1,17:52:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 016,Completed,1,1,17:07:00,,,Completed route has no arrival time; Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 026,No Show,0,1,16:34:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 006,No Show,0,1,18:20:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 009,No Show,0,1,16:48:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 028,No Show,0,1,15:58:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 011,No Show,0,1,14:54:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 019,No Show,0,1,17:02:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-21,Wednesday,Driver 029,No Show,0,1,18:02:00,,,Missing RouteID; Suspicious day: 50%+ of routes are No Show
+,2026-10-22,Thursday,Driver 009,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 006,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 038,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 011,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 017,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 019,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 010,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 015,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 029,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 008,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 002,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 021,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 020,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 024,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 007,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 031,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 004,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 026,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-22,Thursday,Driver 028,Completed,1,0,,14:04:13,14.07,Missing RouteID
+,2026-10-23,Friday,Driver 026,Completed,1,0,,15:36:47,15.61,Missing RouteID
+,2026-10-23,Friday,Driver 021,Completed,1,0,,16:27:59,16.47,Missing RouteID
+,2026-10-23,Friday,Driver 038,Completed,1,0,,16:28:01,16.47,Missing RouteID
+,2026-10-23,Friday,Driver 029,Completed,1,0,,16:21:07,16.35,Missing RouteID
+,2026-10-23,Friday,Driver 024,Completed,1,0,,17:09:25,17.16,Missing RouteID
+,2026-10-23,Friday,Driver 039,Completed,1,0,,17:44:13,17.74,Missing RouteID
+,2026-10-23,Friday,Driver 017,Completed,1,0,,18:31:59,18.53,Missing RouteID
+,2026-10-23,Friday,Driver 002,Completed,1,0,,16:53:50,16.9,Missing RouteID
+,2026-10-23,Friday,Driver 020,Completed,1,0,,17:58:32,17.98,Missing RouteID
+,2026-10-23,Friday,Driver 006,Completed,1,0,,19:57:22,19.96,Missing RouteID
+,2026-10-23,Friday,Driver 009,Completed,1,0,,19:30:37,19.51,Missing RouteID
+,2026-10-23,Friday,Driver 004,Completed,1,0,,18:48:29,18.81,Missing RouteID
+,2026-10-23,Friday,Driver 011,Completed,1,0,,17:51:14,17.85,Missing RouteID
+,2026-10-23,Friday,Driver 010,Completed,1,0,,19:57:23,19.96,Missing RouteID
+,2026-10-23,Friday,Driver 015,Completed,1,0,,19:11:00,19.18,Missing RouteID
+,2026-10-23,Friday,Driver 031,Completed,1,0,,19:10:39,19.18,Missing RouteID
+,2026-10-23,Friday,Driver 014,Completed,1,0,,18:45:58,18.77,Missing RouteID
+,2026-10-23,Friday,Driver 008,Completed,1,0,,20:44:02,20.73,Missing RouteID
+,2026-10-23,Friday,Driver 016,Completed,1,0,,20:56:21,20.94,Missing RouteID
+,2026-10-23,Friday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-24,Saturday,Driver 029,Completed,1,0,,15:17:12,15.29,Missing RouteID
+,2026-10-24,Saturday,Driver 009,Completed,1,0,,17:05:49,17.1,Missing RouteID
+,2026-10-24,Saturday,Driver 023,Completed,1,0,,16:20:43,16.35,Missing RouteID
+,2026-10-24,Saturday,Driver 028,Completed,1,0,,16:19:31,16.33,Missing RouteID
+,2026-10-24,Saturday,Driver 021,Completed,1,0,,16:13:42,16.23,Missing RouteID
+,2026-10-24,Saturday,Driver 031,Completed,1,0,,16:48:30,16.81,Missing RouteID
+,2026-10-24,Saturday,Driver 024,Completed,1,0,,17:55:09,17.92,Missing RouteID
+,2026-10-24,Saturday,Driver 006,Completed,1,0,,17:23:33,17.39,Missing RouteID
+,2026-10-24,Saturday,Driver 014,Completed,1,0,,17:29:06,17.48,Missing RouteID
+,2026-10-24,Saturday,Driver 007,Completed,1,0,,17:25:42,17.43,Missing RouteID
+,2026-10-24,Saturday,Driver 017,Completed,1,0,,18:11:51,18.2,Missing RouteID
+,2026-10-24,Saturday,Driver 002,Completed,1,0,,18:28:02,18.47,Missing RouteID
+,2026-10-24,Saturday,Driver 039,Completed,1,0,,17:48:02,17.8,Missing RouteID
+,2026-10-24,Saturday,Driver 010,Completed,1,0,,19:01:47,19.03,Missing RouteID
+,2026-10-24,Saturday,Driver 015,Completed,1,0,,18:08:18,18.14,Missing RouteID
+,2026-10-24,Saturday,Driver 011,Completed,1,0,,19:46:50,19.78,Missing RouteID
+,2026-10-24,Saturday,Driver 016,Completed,1,0,,18:50:05,18.83,Missing RouteID
+,2026-10-24,Saturday,Driver 008,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-24,Saturday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-24,Saturday,Driver 038,Completed,1,0,,15:26:18,15.44,Missing RouteID
+,2026-10-24,Saturday,Driver 026,Completed,1,0,,15:26:12,15.44,Missing RouteID
+,2026-10-25,Sunday,Driver 031,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-25,Sunday,Driver 016,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 008,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 007,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 021,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 009,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 024,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 015,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 014,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 006,Completed,1,0,,14:02:31,14.04,Missing RouteID
+,2026-10-25,Sunday,Driver 019,MorningCheckIn,0,1,,,,Missing RouteID
+,2026-10-25,Sunday,Driver 011,Completed,1,0,,14:02:31,14.04,Missing RouteID
