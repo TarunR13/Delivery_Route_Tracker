@@ -46,7 +46,9 @@ The cleaner's output reconciles with the dashboard: **1,073 routes / 918 checked
 ## Findings
 - **119 of the 121 "Unaccounted" no-shows fall in Sep 1-6, and there is no data for Sep 7-13.** Check-in tracking gap rather than real missing drivers, so the Unaccounted KPI likely overstates the problem. Confirm before reporting it.
 - **495 rows (Sep 30 - Oct 25) have no RouteID**, so they are excluded from the dashboard KPIs but present in some visuals. Total counts differ between visuals (1,073 vs 1,568) for this reason.
-
+- Investigation started to remove future "unaccounted" occurrences of routes/drivers
+- Findings in inaccuracies have led to direct intervention to fix future data entry and data entry procedures.
+- Resulted in the predictability of route return timings. For this dataset: The average return is about 5:48 PM (hour 17.8), and the median is just past 6 PM. 29% of completed routes return after 7 PM and 13% after 8 PM. Friday returns latest (18.4) and Sunday earliest (16.6), a gap of about 1.8 hours. Week-to-week averages stay between 17.6 and 18.2, which suggests a stable process.
 ## Assumptions
 - A recorded morning check-in time implies the driver checked in the next morning.
 - Midnight arrival times are placeholders, not real returns.
